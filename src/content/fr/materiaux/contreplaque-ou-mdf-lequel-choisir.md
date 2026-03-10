@@ -73,43 +73,6 @@ Si tu montes un atelier, fabriques des rangements, des caissons ou des meubles u
 
 Autrement dit : le MDF n’est pas un sous-matériau. C’est un matériau à cadre d’usage plus étroit.
 
-
-## Produits à comparer intelligemment
-
-<div class="affiliate-card">
-  <span class="affiliate-badge">Panneau polyvalent</span>
-  <h3>Contreplaqué bouleau ou peuplier pour caisson / atelier</h3>
-  <p>Le bon candidat si tu veux construire utile, visser sans stress et garder une matière relativement stable en usage réel.</p>
-  <div class="pros-cons">
-    <div><h4>Points forts</h4><ul><li>plus rassurant pour les caissons</li><li>bonne tenue en atelier</li><li>polyvalence très forte</li></ul></div>
-    <div><h4>Limites</h4><ul><li>prix plus haut</li><li>qualité variable selon fournisseurs</li><li>chants parfois à habiller</li></ul></div>
-  </div>
-</div>
-
-<div class="affiliate-card">
-  <span class="affiliate-badge">Usage ciblé</span>
-  <h3>Panneau MDF pour peinture ou gabarit</h3>
-  <p>À retenir surtout si la surface peinte ou l’homogénéité priment clairement sur la robustesse atelier.</p>
-  <div class="pros-cons">
-    <div><h4>Points forts</h4><ul><li>surface régulière</li><li>pratique pour peinture</li><li>intéressant pour gabarits</li></ul></div>
-    <div><h4>Limites</h4><ul><li>craint plus l’humidité</li><li>poussière fine pénible</li><li>moins agréable sur chants</li></ul></div>
-  </div>
-</div>
-
-
-## Recommandation rapide achat matière
-
-### Pour atelier, rangement, caisson
-Privilégie un **contreplaqué correct**, même si le prix pique un peu plus. C’est souvent l’écart qui évite de regretter l’achat au montage.
-
-### Pour gabarit ou pièce peinte en intérieur sec
-Le **MDF** garde du sens, mais à condition de l’acheter pour cette logique précise — pas comme substitut universel.
-
-<p class="affiliate-note">Future intégration : cette zone pourra accueillir des liens vers panneaux / fournisseurs / références matière quand la stratégie d’affiliation matériaux sera prête.</p>
-
-
-<p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
-
 ## À lire ensuite
 
 - [Comment choisir le bon bois pour son projet](/materiaux/choisir-bon-bois-projet/)

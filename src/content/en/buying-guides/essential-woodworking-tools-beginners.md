@@ -112,22 +112,6 @@ A shop is not just machines. It also runs on the less glamorous things:
 
 This is where a lot of “cheap” setups quietly become expensive.
 
-
-## Recommended order of purchase
-
-If you are starting from nothing, this is the order that makes the most sense:
-
-1. **circular saw + good blade**
-2. **reliable drill driver**
-3. **clamps**
-4. **random-orbit sander**
-5. **layout / measuring / basic dust control**
-
-That sequence will also make the future affiliate layer more useful, because recommendations convert better when they follow a believable workshop progression.
-
-
-<p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
-
 ## My direct take
 
 If you are starting out, do not chase a complete woodworking shop. Chase a believable workflow.
