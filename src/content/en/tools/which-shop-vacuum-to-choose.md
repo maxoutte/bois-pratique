@@ -45,3 +45,8 @@ The right choice depends on the machines you plan to connect and the level of co
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [How to organize a small woodworking shop](/en/workshop/how-to-organize-small-shop/)
+- [Best random orbit sander for beginners](/en/tools/best-random-orbit-sander-beginners/)

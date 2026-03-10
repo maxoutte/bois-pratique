@@ -72,6 +72,12 @@ But there is also a trap here: turning every wall into a display of everything y
 
 Use wall space for what earns constant access. Let the rest stay out of the way.
 
+
+## Read next
+
+- [Which shop vacuum should you choose?](/en/tools/which-shop-vacuum-to-choose/)
+- [Best clamps for beginner woodworkers](/en/tools/best-clamps-for-beginners/)
+
 ## My direct take
 
 If you want to improve a small shop, do not start by buying more storage products. Start by removing friction, clearing circulation and making the work zones easier to read.

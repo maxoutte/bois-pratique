@@ -112,6 +112,14 @@ A shop is not just machines. It also runs on the less glamorous things:
 
 This is where a lot of “cheap” setups quietly become expensive.
 
+
+## Read next
+
+- [Best random orbit sander for beginners](/en/tools/best-random-orbit-sander-beginners/)
+- [Best drill driver for beginners](/en/tools/best-drill-driver-beginners/)
+- [Which shop vacuum should you choose?](/en/tools/which-shop-vacuum-to-choose/)
+- [Best clamps for beginner woodworkers](/en/tools/best-clamps-for-beginners/)
+
 ## My direct take
 
 If you are starting out, do not chase a complete woodworking shop. Chase a believable workflow.

@@ -46,3 +46,8 @@ For a first drill driver, I care about:
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Essential woodworking tools for beginners](/en/buying-guides/essential-woodworking-tools-beginners/)
+- [How to organize a small woodworking shop](/en/workshop/how-to-organize-small-shop/)

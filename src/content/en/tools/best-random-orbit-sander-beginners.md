@@ -47,3 +47,8 @@ The goal is not aggression. It is control.
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Sand wood without leaving marks](/en/techniques/sand-without-leaving-marks/)
+- [Essential woodworking tools for beginners](/en/buying-guides/essential-woodworking-tools-beginners/)

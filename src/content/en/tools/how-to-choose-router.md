@@ -68,6 +68,11 @@ Good routers tend to reveal themselves through ordinary details:
 
 Those things matter more than aggressive sales language about capability.
 
+
+## Read next
+
+- [Which router bits should you buy first?](/en/tools/which-router-bits-to-buy-first/)
+
 ## My direct take
 
 If you want one serious router, a stable plunge router is often the best long-term choice. If most of your work will be on edges and smaller parts, a good trim router may be the better everyday tool.

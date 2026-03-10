@@ -54,6 +54,11 @@ A better approach is:
 
 The best sanding rarely looks dramatic.
 
+
+## Read next
+
+- [Best random orbit sander for beginners](/en/tools/best-random-orbit-sander-beginners/)
+
 ## My direct take
 
 Good sanding is not exciting. It is patient, readable and slightly disciplined. If your finish quality is inconsistent, the problem is often here long before it is in the finish itself.
