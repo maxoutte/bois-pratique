@@ -78,6 +78,11 @@ Use wall space for what earns constant access. Let the rest stay out of the way.
 - [Which shop vacuum should you choose?](/en/tools/which-shop-vacuum-to-choose/)
 - [Best clamps for beginner woodworkers](/en/tools/best-clamps-for-beginners/)
 
+
+## Read next
+
+- [Which workbench should you buy or build as a beginner?](/en/tools/which-workbench-should-you-buy-or-build/)
+
 ## My direct take
 
 If you want to improve a small shop, do not start by buying more storage products. Start by removing friction, clearing circulation and making the work zones easier to read.

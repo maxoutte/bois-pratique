@@ -34,3 +34,8 @@ A very logical option if you want something simple, sized to your workshop, and 
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [How to organize a small woodworking shop](/en/workshop/how-to-organize-small-shop/)
+- [Build a shop storage cabinet](/en/projects/build-a-shop-storage-cabinet/)

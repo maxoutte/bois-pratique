@@ -132,6 +132,9 @@ Le reste viendra avec les projets. Et c’est beaucoup mieux comme ça.
 - [Monter un atelier bois débutant avec moins de 500 euros](/guides-achat/outils-bois-moins-de-500-euros/)
 - [Quel outillage bois acheter en premier](/guides-achat/quel-outillage-bois-acheter-en-premier/)
 
+- [Meilleure scie sauteuse pour débuter](/outils/meilleure-scie-sauteuse-debuter/)
+- [Quel établi acheter ou construire pour débuter](/outils/quel-etabli-acheter-ou-construire/)
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

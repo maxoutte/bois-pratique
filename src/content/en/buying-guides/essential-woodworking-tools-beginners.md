@@ -120,6 +120,12 @@ This is where a lot of “cheap” setups quietly become expensive.
 - [Which shop vacuum should you choose?](/en/tools/which-shop-vacuum-to-choose/)
 - [Best clamps for beginner woodworkers](/en/tools/best-clamps-for-beginners/)
 
+
+## Read next
+
+- [Best jigsaw for beginners](/en/tools/best-jigsaw-for-beginners/)
+- [Which workbench should you buy or build as a beginner?](/en/tools/which-workbench-should-you-buy-or-build/)
+
 ## My direct take
 
 If you are starting out, do not chase a complete woodworking shop. Chase a believable workflow.

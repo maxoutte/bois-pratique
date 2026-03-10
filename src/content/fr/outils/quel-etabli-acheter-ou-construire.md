@@ -35,3 +35,8 @@ Très logique si tu veux un établi simple, dimensionné à ton espace, et profi
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Comment organiser un petit atelier bois](/atelier/organiser-petit-atelier-bois/)
+- [Construire un caisson de rangement pour l’atelier](/projets/construire-caisson-rangement-atelier/)

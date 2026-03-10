@@ -36,3 +36,8 @@ If your real need is clean straight cutting on sheet goods, the priority usually
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Best circular saw for beginners](/en/tools/best-circular-saw-beginners/)
+- [Which table saw should you choose as a beginner?](/en/tools/which-table-saw-to-choose-as-a-beginner/)

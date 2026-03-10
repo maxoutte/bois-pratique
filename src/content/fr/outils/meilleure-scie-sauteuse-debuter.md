@@ -36,3 +36,8 @@ Si ton vrai besoin est la coupe droite propre sur panneau, la priorité reste so
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)
+- [Quelle scie sur table choisir pour débuter](/outils/quelle-scie-sur-table-debuter/)
