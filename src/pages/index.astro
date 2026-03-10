@@ -10,12 +10,12 @@ const categories = Object.entries(categoryMeta.fr);
 <BaseLayout lang="fr" title={`${site.name} — ${site.tagline.fr}`} description={site.description.fr} image="/images/articles/og-default.svg">
   <section class="container hero">
     <div class="hero-panel hero-copy">
-      <p class="eyebrow">Média pratique</p>
-      <h1>Outils, techniques, atelier : le bois sans blabla.</h1>
-      <p class="lead">Bois Pratique aide les profils terrain à choisir les bons outils, progresser en atelier et réussir leurs projets bois avec des conseils concrets.</p>
+      <p class="eyebrow">Média atelier</p>
+      <h1>Le bois sans folklore, sans fiche-technique fétiche, sans blabla.</h1>
+      <p class="lead">Bois Pratique publie des guides éditoriaux sur les outils, l’atelier, les matériaux et les projets bois avec une idée simple : aider à mieux choisir, mieux couper, mieux organiser et mieux construire.</p>
       <div class="cta-row">
         <a class="button primary" href="/guides-achat/">Voir les guides d’achat</a>
-        <a class="button secondary" href="/outils/">Commencer</a>
+        <a class="button secondary" href="/atelier/">Améliorer l’atelier</a>
       </div>
     </div>
     <div class="panel hero-visual">
@@ -24,16 +24,22 @@ const categories = Object.entries(categoryMeta.fr);
   </section>
 
   <section class="container section">
+    <h2>Commencer par le bon angle</h2>
+    <p class="lead">Un bon atelier de départ n’a pas besoin d’impressionner. Il doit surtout permettre de tracer juste, couper proprement, tenir les pièces et éviter les achats idiots. C’est sur cette base que le site est construit.</p>
+  </section>
+
+  <section class="container section">
     <h2>Rubriques clés</h2>
     <div class="grid-3">
       {categories.map(([slug, meta]) => (
-        <ArticleCard href={`/${slug}/`} title={meta.title} description={meta.description} meta="Pilier" image={`/images/categories/${slug}.svg`} imageAlt={meta.title} />
+        <ArticleCard href={`/${slug}/`} title={meta.title} description={meta.description} meta="Rubrique" image={`/images/categories/${slug}.svg`} imageAlt={meta.title} />
       ))}
     </div>
   </section>
 
   <section class="container section">
     <h2>Articles prioritaires</h2>
+    <p class="lead">Les pages les plus utiles pour structurer un atelier crédible et éviter les erreurs de début les plus courantes.</p>
     <div class="grid-2">
       {featured.map((article) => (
         <ArticleCard href={`/${article.data.category}/${entrySlug(article.id)}/`} title={article.data.title} description={article.data.description} meta={article.data.contentType} image={article.data.hero} imageAlt={article.data.title} />

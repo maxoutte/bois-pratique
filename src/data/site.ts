@@ -3,11 +3,11 @@ export const site = {
   domain: 'https://boispratique.com',
   tagline: {
     fr: 'Le média terrain du travail du bois.',
-    en: 'Practical woodworking, no fluff.',
+    en: 'Practical woodworking, without empty shop talk.',
   },
   description: {
-    fr: 'Bois Pratique aide à choisir les bons outils, progresser en atelier et réussir ses projets bois avec des conseils concrets.',
-    en: 'Bois Pratique helps readers choose the right tools, improve workshop skills, and build with confidence through practical woodworking advice.',
+    fr: 'Bois Pratique publie des guides concrets sur les outils, l’atelier, les matériaux et les projets bois, avec un angle usage réel plutôt que blabla SEO.',
+    en: 'Bois Pratique publishes practical woodworking guides on tools, workshop setup, materials and projects, with an editorial focus on real use instead of empty SEO filler.',
   },
 };
 
@@ -34,19 +34,19 @@ export const navigation = {
 
 export const categoryMeta = {
   fr: {
-    'outils': { title: 'Outils', description: 'Scies, défonceuses, ponceuses, aspiration, sécurité et comparatifs pratiques.' },
-    'atelier': { title: 'Atelier', description: 'Organisation, petit espace, établi, rangement, aspiration et sécurité.' },
-    'techniques': { title: 'Techniques', description: 'Coupe, ponçage, assemblages, réglages et méthodes concrètes.' },
-    'projets': { title: 'Projets', description: 'Projets utiles, gabarits simples et réalisations orientées atelier.' },
-    'materiaux': { title: 'Matériaux', description: 'Bois massif, panneaux, contreplaqué, OSB, humidité et usages.' },
-    'guides-achat': { title: 'Guides d’achat', description: 'Articles transactionnels pensés pour la conversion et l’affiliation.' },
+    'outils': { title: 'Outils', description: 'Des achats mieux arbitrés, des machines mieux comprises et moins de fantasmes d’atelier.' },
+    'atelier': { title: 'Atelier', description: 'Organisation, rangement, flux, poussière, confort de travail : l’atelier comme lieu de production, pas comme décor.' },
+    'techniques': { title: 'Techniques', description: 'Couper, poncer, régler, avancer proprement : les gestes utiles expliqués sans folklore inutile.' },
+    'projets': { title: 'Projets', description: 'Des projets assez simples pour être construits, assez utiles pour vraiment servir, et assez propres pour faire progresser.' },
+    'materiaux': { title: 'Matériaux', description: 'Massif, contreplaqué, MDF, panneaux : comment choisir la matière qui aide le projet au lieu de le compliquer.' },
+    'guides-achat': { title: 'Guides d’achat', description: 'Des guides d’achat pensés pour l’usage réel, pas pour flatter la fiche technique ou l’achat compulsif.' },
   },
   en: {
-    'tools': { title: 'Tools', description: 'Saws, routers, sanders, dust collection, safety and buying advice.' },
-    'workshop': { title: 'Workshop', description: 'Layout, small shop organization, benches, storage and dust control.' },
-    'techniques': { title: 'Techniques', description: 'Cutting, sanding, joinery, setup tips and practical methods.' },
-    'projects': { title: 'Projects', description: 'Useful builds, simple jigs and shop-focused projects.' },
-    'materials': { title: 'Materials', description: 'Solid wood, sheet goods, plywood, MDF, OSB and moisture basics.' },
-    'buying-guides': { title: 'Buying Guides', description: 'Commercial-intent content designed for conversion and affiliate revenue.' },
+    'tools': { title: 'Tools', description: 'Better buying decisions, clearer tool choices and less fantasy-shop thinking.' },
+    'workshop': { title: 'Workshop', description: 'Layout, storage, dust, movement and everyday shop comfort — the workshop as a working space, not a backdrop.' },
+    'techniques': { title: 'Techniques', description: 'Cutting, sanding, setup and practical shop methods explained without empty ritual.' },
+    'projects': { title: 'Projects', description: 'Projects simple enough to build, useful enough to matter and honest enough to teach something real.' },
+    'materials': { title: 'Materials', description: 'Solid wood, plywood, MDF and sheet goods — choosing materials that help the build instead of complicating it.' },
+    'buying-guides': { title: 'Buying Guides', description: 'Buying guides built around actual use, not spec-sheet vanity or impulse purchases.' },
   },
 };
