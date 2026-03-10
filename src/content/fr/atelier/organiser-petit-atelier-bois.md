@@ -91,6 +91,19 @@ Si tu veux améliorer un petit atelier, ne commence pas par acheter. Commence pa
 
 Un petit atelier devient bon quand il te fait oublier sa taille pendant que tu travailles.
 
+
+## Achats atelier vraiment rentables
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Organisation utile</span>
+  <h3>Rangement mural simple pour serre-joints et outils courants</h3>
+  <p>Beaucoup plus rentable qu’un meuble massif de plus quand le problème principal est la friction quotidienne.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>libère le plan de travail</li><li>accès immédiat aux outils fréquents</li><li>coût faible pour gain réel</li></ul></div>
+    <div><h4>Limites</h4><ul><li>demande un minimum de discipline</li><li>peut vite devenir du bruit visuel</li><li>moins utile si mal pensé</li></ul></div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

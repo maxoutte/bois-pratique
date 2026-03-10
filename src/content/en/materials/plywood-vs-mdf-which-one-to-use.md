@@ -10,6 +10,8 @@ contentType: comparatif
 intent: mixte
 level: beginner
 relatedEntry: contreplaque-ou-mdf-lequel-choisir
+affiliateReady: true
+affiliateCategory: materials
 hero: /images/articles-real/contreplaque-vs-mdf.png
 ---
 Plywood and MDF are often discussed as if they were close substitutes. On paper that seems reasonable: both are sheet goods, both appear in beginner projects, and both can look like the obvious practical choice.

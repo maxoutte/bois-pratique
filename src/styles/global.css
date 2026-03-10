@@ -121,3 +121,7 @@ nav a:hover, .lang-switch:hover { color: var(--accent-3); }
 .button.primary { box-shadow: 0 10px 24px rgba(91,52,24,.18); }
 .button.secondary { box-shadow: inset 0 1px 0 rgba(255,255,255,.35); }
 .affiliate-card { box-shadow: 0 10px 24px rgba(62,34,16,.08); }
+
+.affiliate-link-row { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: .9rem; }
+.affiliate-link-placeholder { display: inline-block; padding: .65rem .9rem; border-radius: .8rem; background: #dcc6ad; color: #4a2e18; font-weight: 700; }
+.affiliate-note { font-size: .92rem; color: var(--muted); margin-top: .55rem; }

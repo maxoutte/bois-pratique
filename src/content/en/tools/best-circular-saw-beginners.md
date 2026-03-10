@@ -10,6 +10,8 @@ contentType: comparatif
 intent: transactionnelle
 level: beginner
 relatedEntry: meilleure-scie-circulaire-debutant
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/scie-circulaire.png
 ---
 There are two classic ways to buy the wrong first circular saw. The first is to buy too cheap and end up with a saw that never feels trustworthy. The second is to overbuy — spending for a heavier, more “professional” machine before you have the method, support setup and habits to benefit from it.

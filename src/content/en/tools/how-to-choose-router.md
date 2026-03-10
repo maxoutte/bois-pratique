@@ -10,6 +10,8 @@ contentType: guide-achat
 intent: transactionnelle
 level: mixed
 relatedEntry: quelle-defonceuse-choisir
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/defonceuse.png
 ---
 Routers intimidate beginners for good reason. They spin fast, react quickly, and make mistakes visible almost immediately. A poor bit, a rushed pass or a vague depth setting can turn an ordinary operation into a messy one.

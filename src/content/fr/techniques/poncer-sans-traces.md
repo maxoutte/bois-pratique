@@ -78,6 +78,19 @@ Un bon ponçage n’est pas impressionnant. Il est patient, propre et sans ego. 
 
 Le ponçage n’est pas la dernière corvée avant la belle étape. C’est déjà une partie de la qualité finale.
 
+
+## Produits qui changent vraiment le résultat
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Produit utile</span>
+  <h3>Abrasifs de qualité pour ponceuse excentrique</h3>
+  <p>Le type d’achat discret qui améliore plus le rendu final qu’une machine surévaluée avec de mauvais consommables.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>coupe plus régulière</li><li>s’encrasse moins vite</li><li>meilleure lecture des grains</li></ul></div>
+    <div><h4>Limites</h4><ul><li>coût unitaire plus haut</li><li>moins intéressant si stockage humide</li><li>n’efface pas une mauvaise méthode</li></ul></div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Comment couper droit dans le bois](/techniques/comment-couper-droit/)

@@ -10,6 +10,8 @@ contentType: guide-achat
 intent: transactionnelle
 level: debutant
 relatedEntry: tools-essential-woodworking-tools-beginners
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/outils-debuter.png
 ---
 Le débutant en bois fait presque toujours la même erreur : il pense qu’il lui manque des machines, alors qu’il lui manque surtout une base cohérente. C’est logique. Les boutiques vendent du rêve d’atelier complet, les vidéos montrent des murs d’outils, et les comparatifs finissent par faire croire qu’on ne peut rien faire sans un arsenal complet.

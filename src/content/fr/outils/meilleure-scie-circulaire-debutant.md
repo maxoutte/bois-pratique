@@ -10,6 +10,8 @@ contentType: comparatif
 intent: transactionnelle
 level: debutant
 relatedEntry: tools-best-circular-saw-beginners
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/scie-circulaire.png
 ---
 Il y a deux façons de rater l’achat d’une première scie circulaire. La première, c’est d’acheter trop bas et de se retrouver avec une machine pénible qui coupe sans jamais rassurer. La seconde, plus sournoise, c’est de suracheter : viser une machine plus chère, plus lourde, plus “pro”, alors qu’on n’a pas encore construit la méthode qui permet d’en tirer quelque chose.

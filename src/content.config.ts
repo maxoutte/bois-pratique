@@ -15,6 +15,8 @@ const articleSchema = z.object({
   level: z.enum(['debutant', 'intermediaire', 'avance', 'mix', 'beginner', 'intermediate', 'advanced', 'mixed']).default('mix'),
   relatedEntry: z.string().optional(),
   hero: z.string().optional(),
+  affiliateReady: z.boolean().default(false),
+  affiliateCategory: z.enum(['tools','materials','mixed']).optional(),
 });
 
 const fr = defineCollection({

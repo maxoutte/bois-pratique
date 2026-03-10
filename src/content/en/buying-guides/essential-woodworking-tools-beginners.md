@@ -10,6 +10,8 @@ contentType: guide-achat
 intent: transactionnelle
 level: beginner
 relatedEntry: outils-indispensables-debuter
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/outils-debuter.png
 ---
 Most beginners make the same mistake: they think they need more machines, when what they really need is a more coherent starting setup. That confusion is understandable. Woodworking media is full of dream shops, wall-to-wall tools and “must-have” recommendations that make it sound like nothing good can happen until your garage looks half professional.

@@ -9,6 +9,8 @@ featured: true
 contentType: comparatif
 intent: mixte
 level: debutant
+affiliateReady: true
+affiliateCategory: materials
 hero: /images/articles-real/contreplaque-vs-mdf.png
 ---
 Le contreplaqué et le MDF sont souvent comparés comme s’ils jouaient dans la même catégorie. C’est vrai sur le papier : deux panneaux, deux solutions de base pour énormément de projets. Mais en atelier, ils ne racontent pas du tout la même histoire.
@@ -70,6 +72,29 @@ Pas automatiquement. Il est juste souvent plus cohérent dans des projets soumis
 Si tu montes un atelier, fabriques des rangements, des caissons ou des meubles utilitaires, le contreplaqué crée généralement moins de regrets. Le MDF est très utile, mais surtout quand on sait pourquoi on le choisit.
 
 Autrement dit : le MDF n’est pas un sous-matériau. C’est un matériau à cadre d’usage plus étroit.
+
+
+## Produits à comparer intelligemment
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Panneau polyvalent</span>
+  <h3>Contreplaqué bouleau ou peuplier pour caisson / atelier</h3>
+  <p>Le bon candidat si tu veux construire utile, visser sans stress et garder une matière relativement stable en usage réel.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>plus rassurant pour les caissons</li><li>bonne tenue en atelier</li><li>polyvalence très forte</li></ul></div>
+    <div><h4>Limites</h4><ul><li>prix plus haut</li><li>qualité variable selon fournisseurs</li><li>chants parfois à habiller</li></ul></div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Usage ciblé</span>
+  <h3>Panneau MDF pour peinture ou gabarit</h3>
+  <p>À retenir surtout si la surface peinte ou l’homogénéité priment clairement sur la robustesse atelier.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>surface régulière</li><li>pratique pour peinture</li><li>intéressant pour gabarits</li></ul></div>
+    <div><h4>Limites</h4><ul><li>craint plus l’humidité</li><li>poussière fine pénible</li><li>moins agréable sur chants</li></ul></div>
+  </div>
+</div>
 
 ## À lire ensuite
 

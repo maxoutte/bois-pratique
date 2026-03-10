@@ -10,6 +10,8 @@ contentType: guide-achat
 intent: transactionnelle
 level: mix
 relatedEntry: tools-how-to-choose-router
+affiliateReady: true
+affiliateCategory: tools
 hero: /images/articles-real/defonceuse.png
 ---
 La défonceuse a mauvaise réputation chez les débutants. On l’imagine bruyante, imprévisible, presque agressive. Ce n’est pas totalement injuste : mal réglée, mal tenue ou équipée d’une fraise moyenne, elle peut vite donner une mauvaise expérience.
