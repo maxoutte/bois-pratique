@@ -112,6 +112,41 @@ Une **défonceuse plongeante intermédiaire** est généralement le meilleur com
 ### Tu veux éviter l’achat raté
 Ne choisis pas la machine au nombre d’accessoires dans le coffret. Choisis-la à la qualité de la base, au réglage de profondeur et à la compatibilité fraises.
 
+
+## Sélection concrète de modèles à regarder
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Affleureuse recommandable</span>
+  <h3>Makita RT0702C / RT0700C</h3>
+  <p>Sans doute l’une des portes d’entrée les plus crédibles si tu veux une machine compacte, très répandue, simple à recommander et cohérente pour débuter.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>modèle ultra répandu</li><li>bonne prise en main</li><li>très logique pour chants, petites pièces et finitions</li></ul></div>
+    <div><h4>Limites</h4><ul><li>pas une vraie remplaçante de plongeante</li><li>peut frustrer si tu veux vite faire plus lourd</li><li>nécessite quand même de bonnes fraises</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : excellent choix pour commencer sans se faire peur avec une machine plus lourde.</p>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Plongeante polyvalente</span>
+  <h3>Makita RP0900 / RP1110C selon budget</h3>
+  <p>Une famille de machines qui donne une vraie porte d’entrée côté plongeante sans partir directement sur des modèles beaucoup plus chers.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>plus large champ d’usage</li><li>machine plus atelier</li><li>bonne base pour rainures, gabarits et progression</li></ul></div>
+    <div><h4>Limites</h4><ul><li>plus engageante en poids et encombrement</li><li>moins rassurante au départ</li><li>demande un peu plus de méthode</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : si tu veux une seule machine plus durable et plus complète.</p>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Alternative pro connue</span>
+  <h3>Bosch GOF 1250 CE / LCE</h3>
+  <p>Une option plus sérieuse si tu veux monter en gamme sur la qualité perçue, les réglages et le confort atelier.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>bonne image pro</li><li>réglages généralement plus valorisants</li><li>intéressante si tu veux investir plus proprement</li></ul></div>
+    <div><h4>Limites</h4><ul><li>budget plus haut</li><li>pas forcément rationnelle pour un pur début de parcours</li><li>surachat possible si l’usage reste occasionnel</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : si tu sais déjà que la défonceuse va devenir une vraie machine centrale de ton atelier.</p>
+</div>
 <p class="affiliate-note">Future intégration : on pourra brancher ici une sélection courte “entrée / polyvalente / premium raisonnable”.</p>
 
 ## À lire ensuite

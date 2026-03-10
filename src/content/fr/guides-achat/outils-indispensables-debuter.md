@@ -163,6 +163,39 @@ Si tu démarres de zéro, voilà l’ordre le plus logique :
 
 Ce classement sert aussi de base pour les futures recommandations affiliées : on monétise mieux quand la sélection suit une vraie progression d’atelier, pas quand on empile des produits sans hiérarchie.
 
+
+## Sélection concrète de base atelier
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Scie circulaire</span>
+  <h3>Makita HS7601</h3>
+  <p>Probablement l’un des achats les plus faciles à défendre pour une base d’atelier simple, rationnelle et durable.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>modèle connu</li><li>bonne cohérence débutant</li><li>ouvre beaucoup de projets utiles</li></ul></div>
+    <div><h4>Limites</h4><ul><li>demande guidage et bonne lame</li><li>moins confortable qu’un setup plus haut de gamme</li><li>filiation simple plutôt que premium</li></ul></div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Perceuse-visseuse</span>
+  <h3>Makita DDF482 ou Bosch GSR 18V-55</h3>
+  <p>Deux profils très cohérents pour éviter les kits gadgets et partir directement sur une machine qui sert vraiment.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>fiables</li><li>agréables au quotidien</li><li>adaptées au vrai montage atelier</li></ul></div>
+    <div><h4>Limites</h4><ul><li>budget batterie à bien regarder</li><li>ne pas choisir sans penser à l’écosystème</li><li>souvent vendues en variantes à comparer calmement</li></ul></div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Ponceuse excentrique</span>
+  <h3>Bosch Professional GEX 125-1 AE / Makita BO5041</h3>
+  <p>Des références plus sérieuses qu’une entrée de gamme molle, avec un vrai intérêt si tu veux des finitions propres sans t’épuiser.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>vrai gain de temps</li><li>plus cohérentes avec aspiration</li><li>machines connues et faciles à recommander</li></ul></div>
+    <div><h4>Limites</h4><ul><li>le résultat dépend énormément des abrasifs</li><li>modèles proches à comparer selon prise en main</li><li>sans aspiration, tu perds une partie de l’intérêt</li></ul></div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

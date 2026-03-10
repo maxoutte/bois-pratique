@@ -187,6 +187,41 @@ Une **scie sur batterie sérieuse** peut avoir beaucoup de sens si tu travailles
 ### Tu veux surtout de la propreté sur panneau
 Le meilleur achat n’est pas toujours une “meilleure scie”. C’est parfois une scie correcte **avec un vrai système de guidage**. C’est ça qui change la qualité réelle des résultats.
 
+
+## Sélection concrète de modèles à regarder
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Entrée fiable</span>
+  <h3>Makita HS7601</h3>
+  <p>Une référence très crédible pour débuter sérieusement sans entrer tout de suite dans une logique rail premium ou batterie coûteuse.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>modèle éprouvé</li><li>prise en main simple</li><li>très cohérente pour panneau, atelier et bricolage sérieux</li></ul></div>
+    <div><h4>Limites</h4><ul><li>reste une filaire simple, pas une machine “confort premium”</li><li>demande une vraie lame correcte pour être jugée honnêtement</li><li>moins séduisante si tu veux déjà un écosystème batterie</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : le bon choix si tu veux une première scie sérieuse, sans sophistication inutile.</p>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Alternative sérieuse</span>
+  <h3>Bosch Professional GKS 190</h3>
+  <p>Une scie souvent regardée par ceux qui veulent un modèle un peu plus charpenté, avec une image plus “chantier”.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>bonne réputation terrain</li><li>machine robuste</li><li>intéressante si tu veux une scie qui encaisse</li></ul></div>
+    <div><h4>Limites</h4><ul><li>plus orientée robustesse que finesse</li><li>pas forcément la plus douce pour apprendre la coupe propre sur panneau</li><li>à relativiser si ton besoin est surtout atelier intérieur</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : si tu privilégies le côté costaud et une logique plus chantier que mobilier léger.</p>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Option confort</span>
+  <h3>Makita DHS680 (sans fil)</h3>
+  <p>Une option beaucoup plus agréable si tu veux du sans-fil sérieux, à condition d’accepter le coût réel de la plateforme batterie.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>très bon confort d’usage</li><li>mobilité évidente</li><li>plus plaisante dans les petits chantiers et coupes répétées</li></ul></div>
+    <div><h4>Limites</h4><ul><li>prix total plus élevé</li><li>moins logique si tu n’as pas déjà des batteries compatibles</li><li>pas l’achat le plus rationnel pour un tout premier budget serré</li></ul></div>
+  </div>
+  <p class="affiliate-note">Pour qui : si tu veux un achat plus confortable et que tu assumes déjà l’écosystème sans fil.</p>
+</div>
 <p class="affiliate-note">Future intégration : ici, chaque profil pourra accueillir 1 à 2 références précises avec lien affilié, prix indicatif, et alternative budget.</p>
 
 ## À lire ensuite
