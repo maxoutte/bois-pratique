@@ -46,6 +46,12 @@ Le bon achat dépend surtout des machines branchées et du niveau de confort que
   </div>
 </div>
 
+
+## À lire ensuite
+
+- [Comment organiser un petit atelier bois](/atelier/organiser-petit-atelier-bois/)
+- [Meilleure ponceuse excentrique pour débuter](/outils/meilleure-ponceuse-excentrique-debuter/)
+
 ## Mon avis direct
 
 L’aspiration n’est pas un achat sexy, mais c’est un achat qui améliore chaque séance. Si tu veux un atelier plus vivable, traite ce sujet plus tôt que prévu.

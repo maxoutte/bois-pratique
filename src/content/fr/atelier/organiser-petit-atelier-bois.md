@@ -104,6 +104,8 @@ Un petit atelier devient bon quand il te fait oublier sa taille pendant que tu t
   </div>
 </div>
 
+- [Quel aspirateur d’atelier choisir](/outils/quel-aspirateur-atelier-choisir/)
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

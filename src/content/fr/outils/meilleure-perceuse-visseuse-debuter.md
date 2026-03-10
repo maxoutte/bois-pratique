@@ -47,6 +47,12 @@ Sur une perceuse-visseuse de départ, je regarde surtout :
   </div>
 </div>
 
+
+## À lire ensuite
+
+- [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)
+- [Comment organiser un petit atelier bois](/atelier/organiser-petit-atelier-bois/)
+
 ## Mon avis direct
 
 Mieux vaut une bonne perceuse-visseuse et peu d’outils autour qu’un mauvais pack de départ qui donne une impression de lot promotionnel. Cet achat structure réellement l’atelier.

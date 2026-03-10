@@ -199,6 +199,10 @@ Ce classement sert aussi de base pour les futures recommandations affiliées : o
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
 
+- [Meilleure ponceuse excentrique pour débuter](/outils/meilleure-ponceuse-excentrique-debuter/)
+- [Meilleure perceuse-visseuse pour débuter](/outils/meilleure-perceuse-visseuse-debuter/)
+- [Quel aspirateur d’atelier choisir](/outils/quel-aspirateur-atelier-choisir/)
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

@@ -91,6 +91,8 @@ Le ponçage n’est pas la dernière corvée avant la belle étape. C’est déj
   </div>
 </div>
 
+- [Meilleure ponceuse excentrique pour débuter](/outils/meilleure-ponceuse-excentrique-debuter/)
+
 ## À lire ensuite
 
 - [Comment couper droit dans le bois](/techniques/comment-couper-droit/)

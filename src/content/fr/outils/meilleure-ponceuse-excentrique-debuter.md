@@ -48,6 +48,12 @@ Le but n’est pas d’acheter la machine la plus agressive. Le but, c’est d�
   </div>
 </div>
 
+
+## À lire ensuite
+
+- [Poncer le bois sans laisser de traces](/techniques/poncer-sans-traces/)
+- [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)
+
 ## Mon avis direct
 
 Si tu débutes, ne sous-estime pas cet achat. Une bonne excentrique améliore plus le rendu du site et des projets qu’une machine “spectaculaire” achetée trop tôt.
