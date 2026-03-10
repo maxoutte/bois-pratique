@@ -11,60 +11,64 @@ intent: informationnelle
 level: debutant
 hero: /images/articles-real/etagere-murale.png
 ---
-## Pourquoi ce projet est bon pour débuter
+Une étagère murale simple est un bon projet de départ parce qu’elle oblige à faire juste sans exiger une complexité folle. On y retrouve presque tout ce qui compte dans les premiers projets : couper proprement, tracer sans approximation, percer au bon endroit, fixer droit et finir sans massacrer les arêtes.
 
-Une étagère murale simple permet de travailler :
+Et surtout, à la fin, on a quelque chose d’utile.
 
-- la coupe droite
-- le traçage
-- le perçage / vissage
-- le contrôle du niveau
-- la logique d’assemblage
+## Pourquoi ce projet est plus formateur qu’il n’en a l’air
 
-Et surtout, le résultat sert vraiment.
+Sur le papier, une étagère paraît banale. En réalité, elle montre très vite les défauts de méthode :
 
-## Matériel minimum
+- coupe qui n’est pas nette
+- niveau mal contrôlé
+- fixation choisie à la va-vite
+- profondeur mal pensée
+- tablette trop ambitieuse pour ses supports
 
-- panneau ou bois massif selon budget
-- scie circulaire ou coupe en magasin
-- perceuse-visseuse
-- équerre et mètre
-- vis adaptées au mur
-- fixations adaptées au support
+C’est précisément pour ça que c’est un bon exercice.
 
-## Plan simple
+## Le bon niveau d’ambition
 
-Version ultra simple :
+Le piège classique, c’est de vouloir dessiner tout de suite une étagère “design”, avec détails, épaisseurs, systèmes invisibles et finitions compliquées.
 
-1. une tablette
-2. deux supports ou tasseaux
-3. fixation au mur
+Pour un premier projet, mieux vaut rester sobre :
 
-Le plus important n’est pas la complexité. C’est l’alignement propre.
+- une tablette simple
+- deux supports ou tasseaux bien pensés
+- une fixation adaptée au mur
+- une profondeur réaliste
 
-## Les étapes
+La sobriété donne souvent un résultat plus propre.
 
-### 1. Définir la largeur
-Choisis une longueur réaliste par rapport au mur et à la charge prévue.
+## Le matériau doit suivre l’usage
 
-### 2. Couper proprement
-Une coupe correcte se verra tous les jours. Ne bâcle pas cette étape.
+Si l’étagère est purement utilitaire, un panneau bien choisi peut suffire largement. Si le rendu visuel compte davantage, on peut monter d’un cran sur le matériau.
 
-### 3. Préparer les points de fixation
-Repère, préperce si nécessaire, et vérifie l’équerrage avant serrage final.
+Mais dans tous les cas, il vaut mieux une pièce bien coupée dans un matériau simple qu’une belle essence mal préparée.
 
-### 4. Mettre à niveau
-Un niveau bancal ruine un projet pourtant simple.
+## Les étapes qui comptent vraiment
 
-### 5. Finition rapide
-Ponçage léger, arêtes cassées proprement, finition adaptée à l’usage.
+### Définir la charge et la portée
 
-## Erreurs courantes
+Une étagère ne se pense pas seulement en largeur. Il faut aussi se demander ce qu’elle va porter.
 
-- choisir des fixations au hasard
-- faire une tablette trop longue pour son support
-- négliger le niveau
-- oublier l’usage final et la charge
+### Soigner les coupes
+
+Une coupe moyenne se voit tous les jours sur un projet aussi simple. C’est exactement le genre de pièce où la précision de base saute aux yeux.
+
+### Préparer la fixation avant le montage final
+
+Le choix des vis et des chevilles n’est pas une formalité. Il dépend du mur, de la charge et du type de support.
+
+### Poser avec calme
+
+Une belle étagère mal mise de niveau reste une étagère ratée.
+
+## Mon avis direct
+
+Si tu veux un projet d’entrée intelligent, l’étagère murale est bien meilleure qu’elle n’en a l’air. Elle apprend la rigueur sans demander un parc machine absurde.
+
+Fais simple, coupe propre, fixe droit, et tu auras déjà un projet très honorable.
 
 ## À lire ensuite
 

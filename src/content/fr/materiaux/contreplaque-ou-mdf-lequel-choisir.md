@@ -11,49 +11,63 @@ intent: mixte
 level: debutant
 hero: /images/articles-real/contreplaque-vs-mdf.png
 ---
-## Deux panneaux, deux logiques
+Le contreplaqué et le MDF reviennent très vite dans les premiers projets. Et pourtant, ils sont souvent mis dans le même panier, comme s’il s’agissait de deux versions presque interchangeables d’un même panneau.
 
-Le contreplaqué et le MDF reviennent souvent dans les premiers projets, mais ils ne répondent pas aux mêmes priorités.
+En pratique, ce n’est pas le cas. Ils ne réagissent pas pareil, ne s’assemblent pas pareil et ne pardonnent pas les mêmes choses.
 
-Choisis selon l’usage réel, pas selon l’habitude.
+## Le contreplaqué : plus nerveux, mais souvent plus polyvalent
 
-## Quand le contreplaqué est meilleur
+Le contreplaqué plaît pour de bonnes raisons. Il est généralement plus rassurant dès qu’on veut construire quelque chose qui va être manipulé, vissé, déplacé ou simplement vivre un peu dans l’atelier.
 
-Le contreplaqué est souvent le bon choix si tu veux :
+Il apporte souvent :
 
-- un panneau plus résistant mécaniquement
+- une meilleure tenue mécanique
 - une meilleure tenue des vis
-- une meilleure tolérance en atelier
-- un matériau polyvalent pour caissons et rangements
+- une vraie polyvalence
+- une lecture plus “bois” que le MDF
 
-Il coûte souvent plus cher, mais il est aussi plus rassurant sur beaucoup de projets utiles.
+Son principal défaut reste souvent le prix, et parfois la qualité très variable selon les gammes.
 
-## Quand le MDF a du sens
+## Le MDF : homogène, pratique, mais à cadrer
 
-Le MDF peut être pertinent si tu veux :
+Le MDF a aussi sa logique. Il peut être très pertinent si tu veux :
 
-- peindre une surface bien lisse
-- faire un gabarit intérieur
-- obtenir un panneau homogène et stable
-- contenir le budget sur un usage bien ciblé
+- une surface régulière pour peinture
+- un gabarit
+- une pièce intérieure bien contrôlée
+- un panneau facile à usiner proprement dans certains cas
 
-Son défaut majeur reste l’humidité et la poussière très fine.
+Mais il faut accepter ce qu’il est :
 
-## La vraie question à se poser
+- plus sensible à l’humidité
+- poussiéreux à l’usinage
+- moins agréable sur les chants
+- moins valorisant visuellement sans finition adaptée
 
-Demande-toi :
+## La vraie différence se voit dans l’usage
 
-- le projet sera-t-il visible ?
-- faut-il visser souvent dedans ?
-- y a-t-il un risque d’humidité ?
-- est-ce un meuble utilitaire ou une pièce finie ?
+Si tu fabriques un caisson d’atelier, un rangement, un meuble utilitaire ou tout projet amené à encaisser un peu de vie, le contreplaqué a souvent l’avantage.
 
-## Reco rapide
+Si tu réalises un gabarit, une pièce peinte, un agencement intérieur sec ou un projet où l’homogénéité de surface prime, le MDF peut très bien faire le travail.
 
-- **atelier / rangement / caisson** : avantage contreplaqué
-- **peinture intérieure / gabarit** : MDF possible
-- **milieu humide** : prudence forte avec MDF
-- **pièce durable à manipuler** : avantage contreplaqué
+## Les mauvaises raisons de choisir
+
+On choisit mal quand on se dit :
+
+- “le MDF est moins cher donc ce sera pareil”
+- “le contreplaqué est plus noble donc ce sera forcément mieux”
+- “je verrai plus tard pour l’humidité”
+
+Ces raccourcis finissent souvent en compromis bancal.
+
+## Mon avis direct
+
+Si je devais simplifier brutalement :
+
+- **contreplaqué** pour l’atelier, les caissons, les meubles utilitaires et les projets qui doivent durer
+- **MDF** pour la peinture, les gabarits et les usages intérieurs bien cadrés
+
+Aucun des deux n’est “meilleur” en soi. Mais dans un atelier de départ, le contreplaqué est souvent celui qui crée le moins de regrets.
 
 ## À lire ensuite
 
