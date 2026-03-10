@@ -11,81 +11,72 @@ intent: informationnelle
 level: debutant
 hero: /images/articles-real/poncage.png
 ---
-Le ponçage paraît simple, ce qui explique sans doute pourquoi il est aussi souvent bâclé. On pense qu’il suffit de passer un abrasif un peu partout, puis de monter dans les grains. En réalité, la qualité d’un ponçage repose moins sur l’effort fourni que sur la méthode utilisée.
+Le ponçage souffre d’un paradoxe : tout le monde pense savoir le faire, et c’est précisément pour ça qu’il est si souvent mal fait. On le traite comme une étape secondaire, presque mécanique, alors qu’il conditionne énormément la lecture finale d’un projet.
 
-Et quand une finition tourne mal, le problème vient très souvent d’ici.
+Un bois mal poncé peut sembler acceptable avant finition, puis devenir brutalement médiocre dès que la lumière accroche ou que le produit révèle les rayures laissées en route.
 
-## Les traces de ponçage viennent rarement d’un seul défaut
+## Le ponçage raté est presque toujours discret au départ
 
-La plupart du temps, c’est un mélange de petites erreurs :
+C’est ce qui le rend piégeux. Une surface peut avoir l’air propre à l’œil nu et pourtant cumuler :
 
-- saut de grain trop ambitieux
-- pression excessive
-- abrasif encrassé
-- poussière mal évacuée
-- arrêt ou redémarrage mal géré
+- des traces du grain précédent
+- des zones plus creusées que d’autres
+- des arêtes trop cassées
+- un abrasif déjà saturé
+- de la poussière qui continue de rayer au lieu de s’évacuer
 
-Pris séparément, chacun de ces défauts peut sembler mineur. Ensemble, ils laissent une surface qui paraît correcte avant finition, puis médiocre dès que la lumière accroche.
+Le problème, c’est qu’on découvre souvent tout ça trop tard.
 
-## Le bon réflexe : penser en progression, pas en acharnement
+## Le vrai principe : faire disparaître, pas insister
 
-Poncer plus ne veut pas dire poncer mieux.
+Poncer ne consiste pas à “frotter plus”. Il s’agit surtout d’effacer correctement l’étape d’avant, sans abîmer la géométrie de la pièce.
 
-L’idée est de faire disparaître les traces du grain précédent sans creuser la pièce ni polir inutilement. Pour beaucoup de projets bois, une progression simple suffit largement :
+C’est pour ça que la progression de grain compte plus que l’énergie dépensée. Dans la plupart des projets courants, une séquence simple suffit :
 
-- 80 si la surface est vraiment brute ou marquée
-- 120 pour remettre à niveau
-- 180 pour une préparation sérieuse avant finition courante
-- 220 seulement quand le projet et le produit de finition le justifient
+- 80 pour remettre à plat une surface brute ou marquée
+- 120 pour nettoyer sérieusement
+- 180 pour préparer une finition courante
+- 220 quand il y a une vraie raison d’y aller
 
-Le piège classique, c’est de vouloir gagner du temps en sautant trop vite d’un grain à l’autre. On croit aller plus vite ; on déplace juste le problème.
+Le saut trop ambitieux entre deux grains est l’un des grands classiques du ponçage décevant.
 
-## Une excentrique doit être accompagnée, pas écrasée
+## Une excentrique se tient avec retenue
 
-Dès qu’on appuie trop, on commence à dégrader le travail.
+Dès qu’on appuie trop, on commence à la faire travailler moins bien.
 
-Une ponceuse excentrique travaille mieux avec :
+Une bonne séance de ponçage à l’excentrique repose plutôt sur :
 
 - une pression légère
 - un déplacement lent
-- des passes régulières
-- un plateau bien à plat
+- des passes partiellement recouvertes
+- un plateau bien posé à plat
 
-Dès qu’on la brusque, on crée des marques ou des creux qu’on passera ensuite du temps à corriger.
+Le geste n’a rien de spectaculaire. Et c’est très bien comme ça.
 
-## La poussière raconte l’état du ponçage
+## La poussière est un indicateur, pas juste une nuisance
 
-Un abrasif saturé ou une aspiration absente donnent vite une fausse impression de progression. En surface, ça semble avancer. En réalité, on frotte parfois plus qu’on n’abraste proprement.
+Quand l’abrasif s’encrasse ou que l’aspiration est absente, on a souvent l’impression de continuer à avancer alors qu’on patine en laissant des marques plus fines mais bien réelles.
 
-D’où l’intérêt de garder une routine simple :
+Dans un atelier propre, le ponçage progresse mieux pour une raison simple : la surface reste lisible.
 
-- aspiration branchée si possible
-- nettoyage léger entre les grains
-- contrôle visuel en lumière rasante
-- contrôle au toucher avant de passer à la suite
+Le minimum utile :
 
-## Les chants et arêtes demandent de la retenue
+- aspiration si possible
+- contrôle visuel entre les grains
+- dépoussiérage rapide
+- contrôle au toucher sans se raconter d’histoires
 
-C’est là qu’on fait souvent le plus de dégâts, surtout sur les petites pièces.
+## Les chants méritent moins d’enthousiasme
 
-Un chant se creuse vite, une arête se casse plus vite qu’on ne croit. Il vaut mieux être sobre, quitte à terminer localement à la main, plutôt que de surponcer par excès de zèle.
+C’est souvent là que les débutants veulent “bien faire”, et c’est exactement pour ça qu’ils en font trop.
 
-## Savoir s’arrêter fait partie du bon ponçage
-
-Il arrive qu’on continue juste pour “assurer”, alors que la surface est déjà prête. C’est souvent à ce moment-là qu’on commence à arrondir ce qui devait rester net ou à créer des différences de lecture.
-
-Un bon arrêt, c’est quand :
-
-- les rayures du grain précédent ont disparu
-- la surface est homogène
-- le toucher est propre
-- la pièce n’a pas perdu sa géométrie
+Un chant se creuse vite. Une arête se casse encore plus vite. Mieux vaut être mesuré, quitte à finir localement à la main, que transformer une pièce nette en pièce molle.
 
 ## Mon avis direct
 
-Le ponçage réussi n’a rien d’héroïque. Il est calme, progressif et un peu méthodique.
+Un bon ponçage n’est pas impressionnant. Il est patient, propre et sans ego. Si tu veux améliorer tes finitions, c’est souvent ici qu’il faut devenir plus rigoureux — pas dans le vernis ou l’huile choisis ensuite.
 
-Ce n’est pas l’étape la plus noble du travail du bois, mais c’est souvent celle qui fait basculer un projet de “presque bien” à vraiment propre.
+Le ponçage n’est pas la dernière corvée avant la belle étape. C’est déjà une partie de la qualité finale.
 
 ## À lire ensuite
 

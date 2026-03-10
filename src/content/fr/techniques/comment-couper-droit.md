@@ -11,92 +11,86 @@ intent: informationnelle
 level: debutant
 hero: /images/articles-real/coupe-droite.png
 ---
-Une coupe droite n’a rien de magique. Quand ça dévie, ce n’est généralement pas parce qu’on “n’a pas le geste”. C’est presque toujours un cumul de petites erreurs banales : trait flou, pièce mal soutenue, guide médiocre, lame fatiguée, position de corps bancale.
+On a tendance à romantiser la coupe droite, comme si certains avaient naturellement “le geste” et d’autres non. En atelier, c’est rarement ça. Une coupe droite vient beaucoup moins d’un talent mystérieux que d’un ensemble de choses très terre à terre : un trait net, une pièce stable, un guide crédible, une lame correcte et une posture qui ne se délite pas au milieu de la coupe.
 
-La bonne nouvelle, c’est qu’on progresse vite dès qu’on arrête de penser la coupe comme un geste isolé, et qu’on la traite comme une **suite de préparations correctes**.
+Quand une coupe part mal, c’est presque toujours parce qu’un de ces éléments a été traité trop vite.
 
-## Le trait de coupe fait déjà une partie du travail
+## Le trait n’est pas une formalité
 
-On a tendance à le survoler, alors qu’il conditionne tout le reste.
+Le traçage est souvent bâclé parce qu’il ne fait pas de bruit et n’impressionne personne. Pourtant, c’est là qu’on décide déjà une partie du résultat.
 
-Un bon traçage, ce n’est pas seulement une mesure juste. C’est aussi :
+Un bon trait de coupe doit être :
 
-- un repère lisible
-- un côté de chute clairement identifié
-- une ligne visible sans ambiguïté
-- une cohérence entre ce qu’on trace et ce qu’on va réellement guider
+- clair
+- fin
+- cohérent avec le côté conservé
+- placé avec une vraie logique de guidage
 
-Une coupe approximative commence souvent par un tracé “à peu près”.
+Un repère vague oblige ensuite à compenser au jugé. Et dès qu’on coupe “au jugé”, on ouvre la porte aux petites dérives qui se paient ensuite sur l’assemblage.
 
-## La pièce doit être soutenue avant d’être coupée
+## La pièce doit être stable avant que la lame ne bouge
 
-Si la pièce bouge, bascule ou pince en fin de coupe, la trajectoire se dégrade presque toujours.
+C’est une évidence théorique, mais une faute très fréquente en pratique.
 
-Avant d’allumer la machine, il faut regarder :
+Si la pièce fléchit, pince, glisse ou manque de support en sortie, la coupe devient vite plus sale, plus stressante et plus imprécise. Avant même d’allumer la machine, il faut savoir :
 
-- où repose la pièce
-- où part la chute
-- où se trouve la zone conservée
-- ce qui se passe à la sortie de coupe
+- ce qui est soutenu
+- ce qui va tomber
+- ce qui doit rester propre
+- ce qui risque de pincer la lame
 
-C’est rarement spectaculaire, mais c’est là que se joue la propreté du résultat.
+La plupart des coupes médiocres ne se ratent pas pendant la coupe. Elles se ratent avant.
 
-## Le guidage vaut souvent plus que l’assurance du poignet
+## Le guidage évite beaucoup d’ego inutile
 
-Beaucoup de débutants essaient de “tenir droit” à la force du bras. Mauvais combat.
+Beaucoup de débutants pensent qu’ils vont “tenir droit” avec de la concentration. C’est une erreur très classique. Un bon guidage vaut presque toujours plus qu’un bras appliqué.
 
-Un guide propre, une règle bien serrée, un rail correct ou même un simple montage maison bien pensé valent beaucoup plus qu’un effort de compensation en cours de coupe.
+Un rail, une règle bien bridée, un guide maison sérieux : ce sont eux qui retirent l’hésitation et la correction permanente.
 
-Avec un bon guidage :
+Dès qu’on coupe avec un vrai guidage, on gagne tout de suite en :
 
-- tu forces moins
-- tu corriges moins
-- la coupe chauffe moins
-- le résultat devient plus prévisible
+- régularité
+- confiance
+- propreté
+- confort
 
-## La lame ne doit pas être l’angle mort
+## La lame parle avant toi
 
-On critique souvent la machine alors que la lame raconte déjà le problème.
+Quand une coupe chauffe, arrache, force ou dévie, on accuse souvent la machine ou sa propre technique. Mais très souvent, la lame est déjà en train de raconter le problème.
 
-Une lame inadaptée, fatiguée ou encrassée donne vite :
+Une lame fatiguée ou mal choisie donne vite :
 
 - plus d’effort
 - plus d’éclats
-- plus d’échauffement
+- plus de bruit inutile
 - plus de dérive
 
-Quand une coupe se passe mal, ça vaut toujours le coup de regarder la lame avant de conclure que la méthode est mauvaise.
+Ce n’est pas un détail annexe. C’est une partie du système de coupe.
 
-## La bonne avance est régulière, pas agressive
+## Une bonne coupe se pousse moins qu’elle ne se conduit
 
-Une coupe propre se fait avec une avance tenue. Pas avec une poussée brutale.
+L’une des erreurs les plus banales consiste à croire qu’une coupe propre demande de l’autorité. En réalité, elle demande surtout une avance régulière.
 
-Si la machine force, chauffe ou commence à dévier, il faut lever le pied et chercher la cause. Souvent, le problème vient moins du moteur que de la préparation autour.
+Quand on pousse trop :
 
-## La sortie de coupe est souvent l’endroit où tout se gâche
+- la machine travaille moins bien
+- la trajectoire devient moins stable
+- l’échauffement augmente
+- la fin de coupe devient plus nerveuse
 
-Beaucoup de coupes commencent correctement puis se salissent à la fin. La raison est simple : la pièce n’est plus soutenue de façon cohérente, la chute part mal, ou l’utilisateur change sa posture trop tôt.
+Le bon rythme est souvent plus calme qu’on ne l’imagine.
 
-Anticiper la fin de coupe fait partie de la coupe.
+## La sortie de coupe mérite autant d’attention que le départ
 
-## Une méthode simple qui marche vraiment
+Beaucoup de coupes paraissent bien parties puis se dégradent dans les derniers centimètres. Pourquoi ? Parce que le corps change, la pièce n’est plus soutenue de la même façon, ou la chute part de travers.
 
-Quand je veux fiabiliser une coupe, je reviens toujours aux mêmes bases :
-
-1. tracer proprement
-2. stabiliser la pièce
-3. installer un vrai guidage
-4. vérifier la lame
-5. anticiper la sortie
-6. avancer régulièrement
-
-Ce n’est pas plus compliqué que ça. Et pourtant, c’est exactement ce que beaucoup sautent.
+La sortie de coupe n’est pas un après-coup. Elle fait partie de la coupe.
 
 ## Mon avis direct
 
-Couper droit, ce n’est pas un talent. C’est une discipline de préparation.
+Si tu veux couper droit plus souvent, arrête de chercher un meilleur geste avant d’avoir amélioré la préparation.
 
-Le jour où tu cesses de compter sur la compensation au geste, tes coupes deviennent tout de suite plus propres.
+Une coupe droite vient rarement d’un exploit de poignet. Elle vient d’un environnement de coupe proprement pensé.
 
 ## À lire ensuite
 

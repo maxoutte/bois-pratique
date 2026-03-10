@@ -11,64 +11,64 @@ intent: informationnelle
 level: debutant
 hero: /images/articles-real/etagere-murale.png
 ---
-Une étagère murale simple est un bon projet de départ parce qu’elle oblige à faire juste sans exiger une complexité folle. On y retrouve presque tout ce qui compte dans les premiers projets : couper proprement, tracer sans approximation, percer au bon endroit, fixer droit et finir sans massacrer les arêtes.
+Une étagère murale simple est un très bon projet de départ parce qu’elle ne pardonne pas grand-chose, tout en restant complètement faisable. Une coupe moyenne se voit, un niveau approximatif se voit, une fixation mal pensée se voit. Et c’est précisément pour ça qu’elle apprend autant.
 
-Et surtout, à la fin, on a quelque chose d’utile.
+Ce n’est pas un projet “basique” au sens péjoratif. C’est un projet où les fondamentaux sautent immédiatement aux yeux.
 
-## Pourquoi ce projet est plus formateur qu’il n’en a l’air
+## Pourquoi c’est un meilleur premier projet qu’on ne le croit
 
-Sur le papier, une étagère paraît banale. En réalité, elle montre très vite les défauts de méthode :
+Une étagère réunit presque toutes les bases utiles :
 
-- coupe qui n’est pas nette
-- niveau mal contrôlé
-- fixation choisie à la va-vite
-- profondeur mal pensée
-- tablette trop ambitieuse pour ses supports
+- tracer proprement
+- couper droit
+- percer au bon endroit
+- réfléchir à la charge
+- fixer sans improviser
+- finir proprement
 
-C’est précisément pour ça que c’est un bon exercice.
+Elle oblige à être simple. Et la simplicité révèle très vite la qualité réelle du travail.
 
-## Le bon niveau d’ambition
+## Le piège classique : vouloir faire trop design trop tôt
 
-Le piège classique, c’est de vouloir dessiner tout de suite une étagère “design”, avec détails, épaisseurs, systèmes invisibles et finitions compliquées.
+Le premier réflexe est souvent d’ajouter :
 
-Pour un premier projet, mieux vaut rester sobre :
+- des fixations invisibles
+- une forme spéciale
+- une forte épaisseur
+- des détails décoratifs
+- une portée un peu trop ambitieuse
 
-- une tablette simple
-- deux supports ou tasseaux bien pensés
-- une fixation adaptée au mur
-- une profondeur réaliste
+En général, mieux vaut résister. Une première étagère gagne beaucoup à rester sobre.
 
-La sobriété donne souvent un résultat plus propre.
+Une tablette bien coupée, bien posée et bien soutenue fera plus sérieuse qu’un projet compliqué mal maîtrisé.
 
-## Le matériau doit suivre l’usage
+## Le mur décide autant que le bois
 
-Si l’étagère est purement utilitaire, un panneau bien choisi peut suffire largement. Si le rendu visuel compte davantage, on peut monter d’un cran sur le matériau.
+On pense souvent d’abord à la tablette, alors que la vraie difficulté est parfois dans la fixation.
 
-Mais dans tous les cas, il vaut mieux une pièce bien coupée dans un matériau simple qu’une belle essence mal préparée.
+Le support mural, la charge prévue et la longueur choisie comptent énormément. Une étagère réussie, ce n’est pas juste une pièce de bois propre. C’est une pièce de bois correctement intégrée à un mur donné.
 
-## Les étapes qui comptent vraiment
+## Ce qui fait vraiment la différence
 
-### Définir la charge et la portée
+### Des coupes nettes
 
-Une étagère ne se pense pas seulement en largeur. Il faut aussi se demander ce qu’elle va porter.
+Sur un projet aussi simple, les défauts de coupe se lisent tout de suite. Il ne faut pas les traiter comme un détail secondaire.
 
-### Soigner les coupes
+### Une portée raisonnable
 
-Une coupe moyenne se voit tous les jours sur un projet aussi simple. C’est exactement le genre de pièce où la précision de base saute aux yeux.
+Une belle étagère trop longue pour ses appuis devient vite une mauvaise idée.
 
-### Préparer la fixation avant le montage final
+### Un niveau contrôlé jusqu’au bout
 
-Le choix des vis et des chevilles n’est pas une formalité. Il dépend du mur, de la charge et du type de support.
+Il suffit de quelques millimètres pour qu’un projet simple paraisse négligé.
 
-### Poser avec calme
+### Une finition sobre
 
-Une belle étagère mal mise de niveau reste une étagère ratée.
+Pas besoin d’en faire trop. Une arête propre, un léger ponçage correct et une finition cohérente valent mieux qu’un habillage compliqué.
 
 ## Mon avis direct
 
-Si tu veux un projet d’entrée intelligent, l’étagère murale est bien meilleure qu’elle n’en a l’air. Elle apprend la rigueur sans demander un parc machine absurde.
-
-Fais simple, coupe propre, fixe droit, et tu auras déjà un projet très honorable.
+Si tu veux un premier projet qui apprend quelque chose de vrai, l’étagère murale est excellente. Elle n’impressionne pas sur le papier, mais elle oblige à faire juste. Et ça, pour débuter, c’est beaucoup plus utile qu’un projet spectaculaire.
 
 ## À lire ensuite
 
