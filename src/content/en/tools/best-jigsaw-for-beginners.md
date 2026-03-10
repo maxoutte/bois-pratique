@@ -37,6 +37,8 @@ If your real need is clean straight cutting on sheet goods, the priority usually
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
 
+- [Which workbench should you buy or build as a beginner?](/en/tools/which-workbench-should-you-buy-or-build/)
+
 ## Read next
 
 - [Best circular saw for beginners](/en/tools/best-circular-saw-beginners/)
