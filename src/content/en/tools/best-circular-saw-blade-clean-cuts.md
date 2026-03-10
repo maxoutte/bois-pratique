@@ -40,3 +40,8 @@ A serious blade choice is not just about tooth count. It is about material, fini
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Best circular saw for beginners](/en/tools/best-circular-saw-beginners/)
+- [How to cut straight in wood](/en/techniques/how-to-cut-straight-in-wood/)

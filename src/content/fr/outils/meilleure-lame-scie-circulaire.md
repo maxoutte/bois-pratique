@@ -40,3 +40,8 @@ On ne choisit pas une lame sérieuse juste au nombre de dents. Il faut regarder 
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)
+- [Comment couper droit dans le bois](/techniques/comment-couper-droit/)

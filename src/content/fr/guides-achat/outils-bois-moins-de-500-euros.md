@@ -38,3 +38,8 @@ Tout le reste peut attendre.
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Quel outillage bois acheter en premier](/guides-achat/quel-outillage-bois-acheter-en-premier/)
+- [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

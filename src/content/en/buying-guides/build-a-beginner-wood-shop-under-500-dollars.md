@@ -38,3 +38,8 @@ Everything else can wait.
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Which woodworking tools should you buy first?](/en/buying-guides/which-woodworking-tools-should-you-buy-first/)
+- [Essential woodworking tools for beginners](/en/buying-guides/essential-woodworking-tools-beginners/)

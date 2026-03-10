@@ -47,3 +47,8 @@ C’est largement plus intelligent qu’un coffret XXL mal exploité.
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Quelle défonceuse choisir pour le bois](/outils/quelle-defonceuse-choisir/)
+- [Comment organiser un petit atelier bois](/atelier/organiser-petit-atelier-bois/)

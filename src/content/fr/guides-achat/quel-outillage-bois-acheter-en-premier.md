@@ -38,3 +38,8 @@ Cet ordre n’est pas glamour. C’est justement pour ça qu’il fonctionne.
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Monter un atelier bois débutant avec moins de 500 euros](/guides-achat/outils-bois-moins-de-500-euros/)
+- [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

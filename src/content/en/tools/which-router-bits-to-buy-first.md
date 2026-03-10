@@ -47,3 +47,8 @@ That is far more sensible than a giant set used badly.
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [How to choose a router for woodworking](/en/tools/how-to-choose-router/)
+- [How to organize a small woodworking shop](/en/workshop/how-to-organize-small-shop/)

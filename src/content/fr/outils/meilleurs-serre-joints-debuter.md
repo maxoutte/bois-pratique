@@ -40,3 +40,8 @@ Au départ, le plus intelligent n’est pas d’avoir beaucoup de serre-joints. 
 </div>
 
 <p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
+## À lire ensuite
+
+- [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)
+- [Comment organiser un petit atelier bois](/atelier/organiser-petit-atelier-bois/)

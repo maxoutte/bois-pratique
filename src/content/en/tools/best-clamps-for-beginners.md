@@ -40,3 +40,8 @@ The smartest start is not “more clamps.” It is the right kinds of clamps for
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Essential woodworking tools for beginners](/en/buying-guides/essential-woodworking-tools-beginners/)
+- [How to organize a small woodworking shop](/en/workshop/how-to-organize-small-shop/)

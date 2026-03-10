@@ -5,7 +5,7 @@ pubDate: 2026-03-10
 language: en
 category: tools
 tags: [table-saw, beginner, workshop]
-featured: false
+featured: true
 contentType: guide-achat
 intent: transactionnelle
 level: mixed

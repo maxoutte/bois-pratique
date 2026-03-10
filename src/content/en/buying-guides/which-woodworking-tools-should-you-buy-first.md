@@ -38,3 +38,8 @@ That order is not glamorous. That is exactly why it works.
 </div>
 
 <p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
+## Read next
+
+- [Build a beginner wood shop for under 500 dollars](/en/buying-guides/build-a-beginner-wood-shop-under-500-dollars/)
+- [Essential woodworking tools for beginners](/en/buying-guides/essential-woodworking-tools-beginners/)
