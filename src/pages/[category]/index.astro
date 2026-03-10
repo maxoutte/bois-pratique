@@ -12,6 +12,22 @@ const { category } = Astro.params;
 if (!category) throw new Error('Missing category');
 const meta = categoryMeta.fr[category as keyof typeof categoryMeta.fr];
 const articles = await getArticlesByCategory('fr', category);
+
+const priorityLinks = category === 'outils'
+  ? [
+      { href: '/outils/meilleure-scie-circulaire-debutant/', label: 'Scie circulaire' },
+      { href: '/outils/meilleure-perceuse-visseuse-debuter/', label: 'Perceuse-visseuse' },
+      { href: '/outils/meilleure-ponceuse-excentrique-debuter/', label: 'Ponceuse excentrique' },
+      { href: '/outils/quel-aspirateur-atelier-choisir/', label: 'Aspiration atelier' },
+    ]
+  : category === 'guides-achat'
+  ? [
+      { href: '/guides-achat/outils-indispensables-debuter/', label: 'Base atelier' },
+      { href: '/guides-achat/outils-bois-moins-de-500-euros/', label: 'Budget < 500 €' },
+      { href: '/guides-achat/quel-outillage-bois-acheter-en-premier/', label: 'Ordre d’achat' },
+    ]
+  : [];
+
 const focusText = category === 'outils' ? 'Cette rubrique mélange désormais comparatifs de machines, accessoires stratégiques et pages transactionnelles : c’est devenu l’un des vrais hubs business du site.' : category === 'guides-achat' ? 'Ici, la promesse ne consiste pas seulement à recommander : elle aide aussi à dépenser dans le bon ordre.' : null;
 ---
 <BaseLayout lang="fr" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.png`}>
@@ -22,6 +38,18 @@ const focusText = category === 'outils' ? 'Cette rubrique mélange désormais co
     <p>Des contenus pensés pour aider à mieux travailler, pas juste à remplir une catégorie. Ici, on trie ce qui sert vraiment de ce qui encombre.</p>
     {focusText && <p class="focus-note">{focusText}</p>}
   </section>
+
+  {priorityLinks.length > 0 && (
+    <section class="container section">
+      <div class="panel">
+        <p class="eyebrow">Entrées prioritaires</p>
+        <div class="quick-links">
+          {priorityLinks.map((item) => <a class="quick-link" href={item.href}>{item.label}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
+
   <section class="container section">
     <div class="grid-2">
       {articles.map((article) => (

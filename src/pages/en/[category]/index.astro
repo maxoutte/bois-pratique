@@ -12,6 +12,22 @@ const { category } = Astro.params;
 if (!category) throw new Error('Missing category');
 const meta = categoryMeta.en[category as keyof typeof categoryMeta.en];
 const articles = await getArticlesByCategory('en', category);
+
+const priorityLinks = category === 'tools'
+  ? [
+      { href: '/en/tools/best-circular-saw-beginners/', label: 'Circular saws' },
+      { href: '/en/tools/best-drill-driver-beginners/', label: 'Drill drivers' },
+      { href: '/en/tools/best-random-orbit-sander-beginners/', label: 'Random orbit sanders' },
+      { href: '/en/tools/which-shop-vacuum-to-choose/', label: 'Dust extraction' },
+    ]
+  : category === 'buying-guides'
+  ? [
+      { href: '/en/buying-guides/essential-woodworking-tools-beginners/', label: 'Starter shop' },
+      { href: '/en/buying-guides/build-a-beginner-wood-shop-under-500-dollars/', label: 'Under $500' },
+      { href: '/en/buying-guides/which-woodworking-tools-should-you-buy-first/', label: 'Buying order' },
+    ]
+  : [];
+
 const focusText = category === 'tools' ? 'This section now mixes core tool reviews, accessory pages and workshop buying decisions. It is becoming one of the strongest commercial hubs on the site.' : category === 'buying-guides' ? 'These guides help structure spending, not just generate clicks. The useful promise here is prioritization.' : null;
 ---
 <BaseLayout lang="en" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.png`}>
@@ -22,6 +38,18 @@ const focusText = category === 'tools' ? 'This section now mixes core tool revie
     <p>These pages are meant to improve actual shop decisions, not just fill a content silo. The focus stays on what earns its place in real use.</p>
     {focusText && <p class="focus-note">{focusText}</p>}
   </section>
+
+  {priorityLinks.length > 0 && (
+    <section class="container section">
+      <div class="panel">
+        <p class="eyebrow">Priority entries</p>
+        <div class="quick-links">
+          {priorityLinks.map((item) => <a class="quick-link" href={item.href}>{item.label}</a>)}
+        </div>
+      </div>
+    </section>
+  )}
+
   <section class="container section">
     <div class="grid-2">
       {articles.map((article) => (
