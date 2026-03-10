@@ -1,0 +1,28 @@
+---
+import SeoHead from '../components/SeoHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  lang: 'fr' | 'en';
+  title: string;
+  description: string;
+  image?: string;
+}
+
+const { lang, title, description, image } = Astro.props;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <SeoHead title={title} description={description} image={image} />
+  </head>
+  <body>
+    <Header lang={lang} />
+    <main>
+      <slot />
+    </main>
+    <Footer lang={lang} />
+  </body>
+</html>

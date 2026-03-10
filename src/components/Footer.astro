@@ -1,0 +1,21 @@
+---
+import { site } from '../data/site';
+interface Props { lang: 'fr' | 'en'; }
+const { lang } = Astro.props;
+---
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <strong>{site.name}</strong>
+      <p>{site.description[lang]}</p>
+    </div>
+    <div>
+      <p>{lang === 'fr' ? 'Pages utiles' : 'Useful pages'}</p>
+      <ul>
+        <li><a href={lang === 'fr' ? '/transparence-affiliation/' : '/en/affiliate-disclosure/'}>{lang === 'fr' ? 'Transparence affiliation' : 'Affiliate disclosure'}</a></li>
+        <li><a href={lang === 'fr' ? '/politique-confidentialite/' : '/en/privacy-policy/'}>{lang === 'fr' ? 'Confidentialité' : 'Privacy policy'}</a></li>
+        <li><a href={lang === 'fr' ? '/mentions-legales/' : '/en/legal-notice/'}>{lang === 'fr' ? 'Mentions légales' : 'Legal notice'}</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>

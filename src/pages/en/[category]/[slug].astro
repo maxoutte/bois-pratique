@@ -1,0 +1,17 @@
+---
+import { getCollection, render } from 'astro:content';
+import PostLayout from '../../../layouts/PostLayout.astro';
+import { categoryMeta } from '../../../data/site';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('en', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { category: entry.data.category, slug: entry.id.split('/').pop() }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const categoryTitle = categoryMeta.en[entry.data.category as keyof typeof categoryMeta.en]?.title ?? entry.data.category;
+---
+<PostLayout lang="en" title={entry.data.title} description={entry.data.description} categoryTitle={categoryTitle} pubDate={entry.data.pubDate} hero={entry.data.hero}>
+  <Content />
+</PostLayout>

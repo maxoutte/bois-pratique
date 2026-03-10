@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ArticleCard from '../../../components/ArticleCard.astro';
+import { categoryMeta, site } from '../../../data/site';
+import { entrySlug, getArticlesByCategory } from '../../../utils/content';
+
+export async function getStaticPaths() {
+  return Object.keys(categoryMeta.en).map((category) => ({ params: { category } }));
+}
+
+const { category } = Astro.params;
+if (!category) throw new Error('Missing category');
+const meta = categoryMeta.en[category as keyof typeof categoryMeta.en];
+const articles = await getArticlesByCategory('en', category);
+---
+<BaseLayout lang="en" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.svg`}>
+  <section class="container page-intro">
+    <p class="eyebrow">Section</p>
+    <h1>{meta.title}</h1>
+    <p class="lead">{meta.description}</p>
+  </section>
+  <section class="container section">
+    <div class="grid-2">
+      {articles.map((article) => (
+        <ArticleCard href={`/en/${article.data.category}/${entrySlug(article.id)}/`} title={article.data.title} description={article.data.description} meta={article.data.contentType} image={article.data.hero} imageAlt={article.data.title} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

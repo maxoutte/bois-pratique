@@ -1,0 +1,31 @@
+---
+import { navigation, site } from '../data/site';
+
+interface Props {
+  lang: 'fr' | 'en';
+}
+
+const { lang } = Astro.props;
+const links = navigation[lang];
+const switchHref = lang === 'fr' ? '/en/' : '/';
+const switchLabel = lang === 'fr' ? 'EN' : 'FR';
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href={lang === 'fr' ? '/' : '/en/'}>
+      <img class="brand-logo" src="/images/brand/logo-mark.png" alt="Bois Pratique" />
+      <span>
+        <strong>{site.name}</strong>
+        <small>{site.tagline[lang]}</small>
+      </span>
+    </a>
+    <nav>
+      <ul>
+        {links.map((link) => (
+          <li><a href={link.href}>{link.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <a class="lang-switch" href={switchHref}>{switchLabel}</a>
+  </div>
+</header>

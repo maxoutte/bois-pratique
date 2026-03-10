@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { categoryMeta, site } from '../../data/site';
+import { entrySlug, getFeaturedArticles } from '../../utils/content';
+
+const featured = await getFeaturedArticles('en');
+const categories = Object.entries(categoryMeta.en);
+---
+<BaseLayout lang="en" title={`${site.name} — ${site.tagline.en}`} description={site.description.en} image="/images/articles/og-default.svg">
+  <section class="container hero">
+    <div class="hero-panel hero-copy">
+      <p class="eyebrow">Practical brand media</p>
+      <h1>Practical woodworking, built for search, trust and revenue.</h1>
+      <p class="lead">Bois Pratique is a bilingual woodworking publication focused on tools, workshop setup, techniques and buying guides that can scale with affiliate content.</p>
+      <div class="cta-row">
+        <a class="button primary" href="/en/buying-guides/">See buying guides</a>
+        <a class="button secondary" href="/en/tools/">Start here</a>
+      </div>
+    </div>
+    <div class="panel hero-visual">
+      <img src="/images/brand/hero-bois-pratique.png" alt="Bois Pratique workshop scene" />
+    </div>
+  </section>
+
+  <section class="container section">
+    <h2>Core sections</h2>
+    <div class="grid-3">
+      {categories.map(([slug, meta]) => (
+        <ArticleCard href={`/en/${slug}/`} title={meta.title} description={meta.description} meta="Pillar" image={`/images/categories/${slug}.svg`} imageAlt={meta.title} />
+      ))}
+    </div>
+  </section>
+
+  <section class="container section">
+    <h2>Priority articles</h2>
+    <div class="grid-2">
+      {featured.map((article) => (
+        <ArticleCard href={`/en/${article.data.category}/${entrySlug(article.id)}/`} title={article.data.title} description={article.data.description} meta={article.data.contentType} image={article.data.hero} imageAlt={article.data.title} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
