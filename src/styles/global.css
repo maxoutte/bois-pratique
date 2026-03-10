@@ -72,3 +72,14 @@ nav ul { display: flex; gap: 1rem; list-style: none; padding: 0; margin: 0; flex
 
 .article-summary { margin: 1rem 0 1.25rem; }
 .article-summary p { margin: .45rem 0 0; color: var(--muted); }
+
+.card h3 { margin: .2rem 0 .55rem; line-height: 1.2; }
+.card p { margin-top: 0; }
+.page-intro p:last-child { max-width: 72ch; color: var(--muted); }
+.prose { font-size: 1.04rem; }
+.prose h2 { font-size: 1.8rem; line-height: 1.15; }
+.prose h3 { font-size: 1.25rem; }
+.prose p + ul, .prose p + ol { margin-top: -.35rem; }
+.prose li + li { margin-top: .28rem; }
+.article-shell > h1 { line-height: 1.05; }
+.site-footer p { color: var(--muted); }
