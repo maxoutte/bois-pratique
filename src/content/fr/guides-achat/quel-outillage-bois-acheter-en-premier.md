@@ -30,6 +30,8 @@ Cet ordre n’est pas glamour. C’est justement pour ça qu’il fonctionne.
 <div class="affiliate-card">
   <span class="affiliate-badge">Lecture utile</span>
   <h3>Achète pour débloquer des actions, pas pour remplir l’atelier</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=outillage+bois+debutant&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir une sélection d’outillage bois sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. À affiner ensuite avec des produits exacts par ordre d’achat.</p>
   <p>Chaque achat doit ouvrir un nouveau type de travail concret. Si l’achat n’ouvre rien de nouveau, il est peut-être prématuré.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>réduit les achats redondants</li><li>améliore le budget réel</li><li>clarifie la progression</li></ul></div>

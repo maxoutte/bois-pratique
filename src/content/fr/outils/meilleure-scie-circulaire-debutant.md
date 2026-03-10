@@ -179,6 +179,9 @@ L’idée n’est pas de faire semblant qu’il existe une scie parfaite. Il exi
 
 - [Quelle scie sur table choisir pour débuter](/outils/quelle-scie-sur-table-debuter/)
 
+
+<p class="affiliate-note"><strong>Priorité monétisation FR :</strong> page à traiter en premier avec des liens produit exacts Amazon.fr dès confirmation des références.</p>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

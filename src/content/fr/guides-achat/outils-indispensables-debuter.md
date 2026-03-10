@@ -135,6 +135,9 @@ Le reste viendra avec les projets. Et c’est beaucoup mieux comme ça.
 - [Meilleure scie sauteuse pour débuter](/outils/meilleure-scie-sauteuse-debuter/)
 - [Quel établi acheter ou construire pour débuter](/outils/quel-etabli-acheter-ou-construire/)
 
+
+<p class="affiliate-note"><strong>Priorité monétisation FR :</strong> page à traiter en premier avec des liens produit exacts Amazon.fr dès confirmation des références.</p>
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

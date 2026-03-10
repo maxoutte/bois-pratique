@@ -30,6 +30,8 @@ Tout le reste peut attendre.
 <div class="affiliate-card">
   <span class="affiliate-badge">Répartition budget</span>
   <h3>Le noyau vraiment utile</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=outillage+bois+atelier+debutant&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir une base d’outillage bois sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Ici, l’objectif est de sourcer une base budget cohérente, pas d’empiler des promos.</p>
   <p>Scie circulaire, perceuse-visseuse, serre-joints, traçage, consommables et protections. C’est beaucoup plus crédible qu’un panier désordonné de promotions.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>atelier immédiatement exploitable</li><li>évite les gros achats qui dorment</li><li>base solide pour les projets utiles</li></ul></div>

@@ -133,3 +133,8 @@ nav a:hover, .lang-switch:hover { color: var(--accent-3); }
 .quick-link:hover { background: #dec7af; color: var(--accent-dark); }
 
 .affiliate-link-row + .affiliate-link-row { margin-top: -.15rem; }
+
+.affiliate-note strong { color: var(--accent-dark); }
+.affiliate-link-row { margin-top: .75rem; }
+.affiliate-link-placeholder { background: linear-gradient(180deg, #dcc6ad 0%, #d1b392 100%); }
+.affiliate-card .affiliate-note { margin-bottom: 0; }

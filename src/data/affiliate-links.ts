@@ -88,3 +88,32 @@ export function getAffiliateUrlFr(product: AffiliateProduct) {
 
 
 // TODO_ASIN: remplacer progressivement les liens de recherche par des ASIN exacts sur les pages FR les plus rentables.
+
+
+export const affiliatePriorityFr = [
+  {
+    page: '/outils/meilleure-scie-circulaire-debutant/',
+    level: 'P1',
+    nextAction: 'Confirm exact ASIN links for Makita HS7601, Bosch GKS 190, Makita DHS680',
+  },
+  {
+    page: '/outils/quelle-defonceuse-choisir/',
+    level: 'P1',
+    nextAction: 'Confirm exact ASIN links for Makita RT0700C and Bosch GOF 1250 CE',
+  },
+  {
+    page: '/guides-achat/outils-indispensables-debuter/',
+    level: 'P1',
+    nextAction: 'Confirm exact ASIN links for scie, perceuse-visseuse, ponceuse',
+  },
+  {
+    page: '/outils/meilleure-perceuse-visseuse-debuter/',
+    level: 'P2',
+    nextAction: 'Confirm exact ASIN links for Makita DDF482 and Bosch GSR 18V-55',
+  },
+  {
+    page: '/outils/meilleure-ponceuse-excentrique-debuter/',
+    level: 'P2',
+    nextAction: 'Confirm exact ASIN links for Bosch GEX 125-1 AE and Makita BO5041',
+  },
+];
