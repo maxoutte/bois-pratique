@@ -10,7 +10,7 @@ contentType: projet
 intent: informationnelle
 level: beginner
 relatedEntry: construire-etagere-murale-simple
-hero: /images/articles/etagere-murale.svg
+hero: /images/articles-real/etagere-murale.png
 ---
 ## A useful first project
 

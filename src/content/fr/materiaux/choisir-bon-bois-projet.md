@@ -9,7 +9,7 @@ featured: false
 contentType: pillar
 intent: informationnelle
 level: mix
-hero: /images/articles/choix-bois.svg
+hero: /images/articles-real/choix-bois.png
 ---
 ## Le bon matériau dépend du projet, pas de la mode
 

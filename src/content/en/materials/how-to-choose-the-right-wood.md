@@ -10,7 +10,7 @@ contentType: pillar
 intent: informationnelle
 level: mixed
 relatedEntry: choisir-bon-bois-projet
-hero: /images/articles/choix-bois.svg
+hero: /images/articles-real/choix-bois.png
 ---
 ## There is no universal best wood
 

@@ -9,7 +9,7 @@ featured: true
 contentType: tutoriel
 intent: informationnelle
 level: debutant
-hero: /images/articles/poncer-sans-traces.svg
+hero: /images/articles-real/poncage.png
 ---
 ## Le problème n’est pas seulement la ponceuse
 

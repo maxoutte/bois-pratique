@@ -9,7 +9,7 @@ featured: true
 contentType: projet
 intent: informationnelle
 level: debutant
-hero: /images/articles/etagere-murale.svg
+hero: /images/articles-real/etagere-murale.png
 ---
 ## Pourquoi ce projet est bon pour débuter
 

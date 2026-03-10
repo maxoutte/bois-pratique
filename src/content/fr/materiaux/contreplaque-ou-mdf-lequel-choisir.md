@@ -9,7 +9,7 @@ featured: true
 contentType: comparatif
 intent: mixte
 level: debutant
-hero: /images/articles/contreplaque-vs-mdf.svg
+hero: /images/articles-real/contreplaque-vs-mdf.png
 ---
 ## Deux panneaux, deux logiques
 

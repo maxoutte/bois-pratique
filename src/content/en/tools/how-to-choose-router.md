@@ -10,7 +10,7 @@ contentType: guide-achat
 intent: transactionnelle
 level: mixed
 relatedEntry: quelle-defonceuse-choisir
-hero: /images/articles/defonceuse.svg
+hero: /images/articles-real/defonceuse.png
 ---
 ## Why routers feel intimidating
 

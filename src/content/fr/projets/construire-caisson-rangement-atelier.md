@@ -9,7 +9,7 @@ featured: false
 contentType: projet
 intent: informationnelle
 level: debutant
-hero: /images/articles/caisson-atelier.svg
+hero: /images/articles-real/caisson-atelier.png
 ---
 ## Un projet utile immédiatement
 

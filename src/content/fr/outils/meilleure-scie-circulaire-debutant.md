@@ -10,7 +10,7 @@ contentType: comparatif
 intent: transactionnelle
 level: debutant
 relatedEntry: tools-best-circular-saw-beginners
-hero: /images/articles/scie-circulaire.svg
+hero: /images/articles-real/scie-circulaire.png
 ---
 ## La vraie question
 

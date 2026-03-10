@@ -10,7 +10,7 @@ contentType: guide-achat
 intent: transactionnelle
 level: debutant
 relatedEntry: tools-essential-woodworking-tools-beginners
-hero: /images/articles/outils-debuter.svg
+hero: /images/articles-real/outils-debuter.png
 ---
 ## Le kit de départ vraiment utile
 

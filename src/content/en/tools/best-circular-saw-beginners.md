@@ -10,7 +10,7 @@ contentType: comparatif
 intent: transactionnelle
 level: beginner
 relatedEntry: meilleure-scie-circulaire-debutant
-hero: /images/articles/scie-circulaire.svg
+hero: /images/articles-real/scie-circulaire.png
 ---
 ## The real question
 

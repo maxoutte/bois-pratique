@@ -10,7 +10,7 @@ contentType: pillar
 intent: informationnelle
 level: mix
 relatedEntry: workshop-how-to-organize-small-shop
-hero: /images/articles/petit-atelier.svg
+hero: /images/articles-real/petit-atelier.png
 ---
 ## Petit atelier ne veut pas dire mauvais atelier
 

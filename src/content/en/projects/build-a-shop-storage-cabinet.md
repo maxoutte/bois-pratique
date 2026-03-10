@@ -10,7 +10,7 @@ contentType: projet
 intent: informationnelle
 level: beginner
 relatedEntry: construire-caisson-rangement-atelier
-hero: /images/articles/caisson-atelier.svg
+hero: /images/articles-real/caisson-atelier.png
 ---
 ## A smart workshop project
 

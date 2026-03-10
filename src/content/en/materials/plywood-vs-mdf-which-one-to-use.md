@@ -10,7 +10,7 @@ contentType: comparatif
 intent: mixte
 level: beginner
 relatedEntry: contreplaque-ou-mdf-lequel-choisir
-hero: /images/articles/contreplaque-vs-mdf.svg
+hero: /images/articles-real/contreplaque-vs-mdf.png
 ---
 ## Same family, different logic
 

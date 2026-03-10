@@ -10,7 +10,7 @@ contentType: guide-achat
 intent: transactionnelle
 level: beginner
 relatedEntry: outils-indispensables-debuter
-hero: /images/articles/outils-debuter.svg
+hero: /images/articles-real/outils-debuter.png
 ---
 ## Start with a coherent kit
 

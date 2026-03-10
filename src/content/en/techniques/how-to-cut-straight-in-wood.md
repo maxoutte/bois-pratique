@@ -10,7 +10,7 @@ contentType: tutoriel
 intent: informationnelle
 level: beginner
 relatedEntry: comment-couper-droit
-hero: /images/articles/coupe-droite.svg
+hero: /images/articles-real/coupe-droite.png
 ---
 ## Straight cuts come from preparation
 

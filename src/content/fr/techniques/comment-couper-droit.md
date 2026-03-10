@@ -9,7 +9,7 @@ featured: false
 contentType: tutoriel
 intent: informationnelle
 level: debutant
-hero: /images/articles/coupe-droite.svg
+hero: /images/articles-real/coupe-droite.png
 ---
 ## Couper droit n’est pas une question de talent
 

@@ -10,7 +10,7 @@ contentType: tutoriel
 intent: informationnelle
 level: beginner
 relatedEntry: poncer-sans-traces
-hero: /images/articles/poncer-sans-traces.svg
+hero: /images/articles-real/poncage.png
 ---
 ## The issue is usually the process
 

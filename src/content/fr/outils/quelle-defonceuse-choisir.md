@@ -10,7 +10,7 @@ contentType: guide-achat
 intent: transactionnelle
 level: mix
 relatedEntry: tools-how-to-choose-router
-hero: /images/articles/defonceuse.svg
+hero: /images/articles-real/defonceuse.png
 ---
 ## Pourquoi la défonceuse impressionne autant
 

@@ -10,7 +10,7 @@ contentType: pillar
 intent: informationnelle
 level: mixed
 relatedEntry: organiser-petit-atelier-bois
-hero: /images/articles/petit-atelier.svg
+hero: /images/articles-real/petit-atelier.png
 ---
 ## Small shop does not mean bad shop
 
