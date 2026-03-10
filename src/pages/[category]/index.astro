@@ -13,7 +13,7 @@ if (!category) throw new Error('Missing category');
 const meta = categoryMeta.fr[category as keyof typeof categoryMeta.fr];
 const articles = await getArticlesByCategory('fr', category);
 ---
-<BaseLayout lang="fr" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.svg`}>
+<BaseLayout lang="fr" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.png`}>
   <section class="container page-intro">
     <p class="eyebrow">Rubrique</p>
     <h1>{meta.title}</h1>

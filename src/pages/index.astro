@@ -32,7 +32,7 @@ const categories = Object.entries(categoryMeta.fr);
     <h2>Rubriques clés</h2>
     <div class="grid-3">
       {categories.map(([slug, meta]) => (
-        <ArticleCard href={`/${slug}/`} title={meta.title} description={meta.description} meta="Rubrique" image={`/images/categories/${slug}.svg`} imageAlt={meta.title} />
+        <ArticleCard href={`/${slug}/`} title={meta.title} description={meta.description} meta="Rubrique" image={`/images/categories/${slug}.png`} imageAlt={meta.title} />
       ))}
     </div>
   </section>
