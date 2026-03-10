@@ -82,6 +82,9 @@ Do not buy based on the size of the accessory kit. Buy based on base stability, 
 
 <p class="affiliate-note">Future integration: this section can later support entry / versatile / premium-sensible recommendations.</p>
 
+
+<p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
 ## My direct take
 
 If you want one serious router, a stable plunge router is often the best long-term choice. If most of your work will be on edges and smaller parts, a good trim router may be the better everyday tool.

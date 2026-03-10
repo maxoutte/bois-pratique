@@ -149,6 +149,9 @@ Ne choisis pas la machine au nombre d’accessoires dans le coffret. Choisis-la 
 </div>
 <p class="affiliate-note">Future intégration : on pourra brancher ici une sélection courte “entrée / polyvalente / premium raisonnable”.</p>
 
+
+<p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

@@ -107,6 +107,9 @@ Le **MDF** garde du sens, mais à condition de l’acheter pour cette logique pr
 
 <p class="affiliate-note">Future intégration : cette zone pourra accueillir des liens vers panneaux / fournisseurs / références matière quand la stratégie d’affiliation matériaux sera prête.</p>
 
+
+<p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
 ## À lire ensuite
 
 - [Comment choisir le bon bois pour son projet](/materiaux/choisir-bon-bois-projet/)

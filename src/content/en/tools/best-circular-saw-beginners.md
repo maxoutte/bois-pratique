@@ -87,6 +87,9 @@ The smartest upgrade may not be a “better saw.” It may be a decent saw paire
 
 <p class="affiliate-note">Future integration: this area can later host 1–2 exact product references per buyer profile.</p>
 
+
+<p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
 ## My direct take
 
 For a first circular saw, I care less about maximum performance than about usable control. Does the saw encourage clean work? Does it feel manageable? Does it reward a guided, careful approach? If yes, it is already doing most of what a beginner actually needs.

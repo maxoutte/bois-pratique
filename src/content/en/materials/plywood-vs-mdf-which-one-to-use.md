@@ -53,6 +53,9 @@ Choose **MDF** only when that logic is clear from the beginning. It works well i
 
 <p class="affiliate-note">Future integration: this area can later hold material/vendor references once sheet-good affiliate strategy is in place.</p>
 
+
+<p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
 ## My direct take
 
 If you are building cabinets, shop storage or useful workshop furniture, plywood usually creates fewer regrets. MDF is absolutely worth using when its strengths fit the job — but it should be a deliberate choice, not a default one.

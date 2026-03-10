@@ -224,6 +224,9 @@ Le meilleur achat n’est pas toujours une “meilleure scie”. C’est parfois
 </div>
 <p class="affiliate-note">Future intégration : ici, chaque profil pourra accueillir 1 à 2 références précises avec lien affilié, prix indicatif, et alternative budget.</p>
 
+
+<p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

@@ -125,6 +125,9 @@ If you are starting from nothing, this is the order that makes the most sense:
 
 That sequence will also make the future affiliate layer more useful, because recommendations convert better when they follow a believable workshop progression.
 
+
+<p class="affiliate-note">Market note: when product links are added here, they should point to .com merchants or product pages.</p>
+
 ## My direct take
 
 If you are starting out, do not chase a complete woodworking shop. Chase a believable workflow.

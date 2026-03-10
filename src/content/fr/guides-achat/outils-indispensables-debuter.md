@@ -196,6 +196,9 @@ Ce classement sert aussi de base pour les futures recommandations affiliées : o
   </div>
 </div>
 
+
+<p class="affiliate-note">Note marché : quand des liens produits seront ajoutés ici, ils devront pointer vers des fiches ou marchands en .fr.</p>
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)
