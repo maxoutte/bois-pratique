@@ -127,6 +127,11 @@ alors tu as déjà la bonne base.
 
 Le reste viendra avec les projets. Et c’est beaucoup mieux comme ça.
 
+- [Meilleurs serre-joints pour débuter le travail du bois](/outils/meilleurs-serre-joints-debuter/)
+
+- [Monter un atelier bois débutant avec moins de 500 euros](/guides-achat/outils-bois-moins-de-500-euros/)
+- [Quel outillage bois acheter en premier](/guides-achat/quel-outillage-bois-acheter-en-premier/)
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

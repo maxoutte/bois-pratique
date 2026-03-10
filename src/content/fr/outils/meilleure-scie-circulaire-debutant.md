@@ -177,6 +177,8 @@ L’idée n’est pas de faire semblant qu’il existe une scie parfaite. Il exi
 
 - [Meilleure lame de scie circulaire pour couper proprement](/outils/meilleure-lame-scie-circulaire/)
 
+- [Quelle scie sur table choisir pour débuter](/outils/quelle-scie-sur-table-debuter/)
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)
