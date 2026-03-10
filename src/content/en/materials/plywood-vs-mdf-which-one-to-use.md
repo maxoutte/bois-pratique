@@ -42,6 +42,17 @@ MDF has clear strengths. It can be excellent for:
 
 Its weakness is not that it is “bad.” It is that its best use cases are narrower than many beginners assume.
 
+
+## Quick buying recommendation
+
+### For cabinets, shop storage and useful workshop work
+Choose **decent plywood** first. It is often the material that creates fewer regrets once the project becomes real.
+
+### For painted interior parts or jigs
+Choose **MDF** only when that logic is clear from the beginning. It works well in its lane, but it is not a universal substitute.
+
+<p class="affiliate-note">Future integration: this area can later hold material/vendor references once sheet-good affiliate strategy is in place.</p>
+
 ## My direct take
 
 If you are building cabinets, shop storage or useful workshop furniture, plywood usually creates fewer regrets. MDF is absolutely worth using when its strengths fit the job — but it should be a deliberate choice, not a default one.

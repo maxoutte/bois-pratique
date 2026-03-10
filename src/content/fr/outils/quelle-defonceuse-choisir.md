@@ -100,6 +100,20 @@ Dans les deux cas, n’oublie pas le point qui change tout : la défonceuse ne s
   </div>
 </div>
 
+
+## Recommandation rapide selon le profil
+
+### Tu veux une machine rassurante pour commencer
+Une **affleureuse sérieuse** reste souvent la meilleure porte d’entrée si tes usages tournent autour des chants, petites reprises et finitions légères.
+
+### Tu veux une machine unique plus durable
+Une **défonceuse plongeante intermédiaire** est généralement le meilleur compromis si tu veux couvrir rainures, gabarits, feuillures et progression atelier.
+
+### Tu veux éviter l’achat raté
+Ne choisis pas la machine au nombre d’accessoires dans le coffret. Choisis-la à la qualité de la base, au réglage de profondeur et à la compatibilité fraises.
+
+<p class="affiliate-note">Future intégration : on pourra brancher ici une sélection courte “entrée / polyvalente / premium raisonnable”.</p>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

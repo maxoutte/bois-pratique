@@ -150,6 +150,19 @@ Le reste viendra avec les projets. Et c’est beaucoup mieux comme ça.
   </div>
 </div>
 
+
+## Ordre d’achat recommandé
+
+Si tu démarres de zéro, voilà l’ordre le plus logique :
+
+1. **scie circulaire + bonne lame**
+2. **perceuse-visseuse fiable**
+3. **serre-joints**
+4. **ponceuse excentrique**
+5. **tracé / mesure / aspiration simple**
+
+Ce classement sert aussi de base pour les futures recommandations affiliées : on monétise mieux quand la sélection suit une vraie progression d’atelier, pas quand on empile des produits sans hiérarchie.
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)

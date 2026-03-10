@@ -73,6 +73,20 @@ than with a more expensive saw used carelessly.
 
 That is why some modest setups produce better work than “better” tools in less disciplined hands.
 
+
+## Quick recommendation by buyer profile
+
+### You want the simplest rational starting point
+A **well-made corded 165 mm circular saw** is often the smartest place to start. It keeps cost under control while still allowing serious work.
+
+### You want better everyday comfort
+A **good cordless circular saw** makes more sense when mobility matters and you already accept the cost of batteries and chargers as part of the real purchase.
+
+### You mostly want cleaner panel work
+The smartest upgrade may not be a “better saw.” It may be a decent saw paired with a **serious guiding setup**.
+
+<p class="affiliate-note">Future integration: this area can later host 1–2 exact product references per buyer profile.</p>
+
 ## My direct take
 
 For a first circular saw, I care less about maximum performance than about usable control. Does the saw encourage clean work? Does it feel manageable? Does it reward a guided, careful approach? If yes, it is already doing most of what a beginner actually needs.

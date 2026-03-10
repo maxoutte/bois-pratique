@@ -96,6 +96,17 @@ Autrement dit : le MDF n’est pas un sous-matériau. C’est un matériau à ca
   </div>
 </div>
 
+
+## Recommandation rapide achat matière
+
+### Pour atelier, rangement, caisson
+Privilégie un **contreplaqué correct**, même si le prix pique un peu plus. C’est souvent l’écart qui évite de regretter l’achat au montage.
+
+### Pour gabarit ou pièce peinte en intérieur sec
+Le **MDF** garde du sens, mais à condition de l’acheter pour cette logique précise — pas comme substitut universel.
+
+<p class="affiliate-note">Future intégration : cette zone pourra accueillir des liens vers panneaux / fournisseurs / références matière quand la stratégie d’affiliation matériaux sera prête.</p>
+
 ## À lire ensuite
 
 - [Comment choisir le bon bois pour son projet](/materiaux/choisir-bon-bois-projet/)

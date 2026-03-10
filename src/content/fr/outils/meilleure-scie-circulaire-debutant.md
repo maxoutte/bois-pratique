@@ -175,6 +175,20 @@ L’idée n’est pas de faire semblant qu’il existe une scie parfaite. Il exi
   </div>
 </div>
 
+
+## Recommandation rapide selon le profil
+
+### Tu veux juste couper proprement sans exploser le budget
+Regarde en priorité une **scie circulaire filaire 165 mm bien née**, avec une semelle correcte et une disponibilité simple des lames. C’est souvent le point d’entrée le plus rationnel.
+
+### Tu veux un achat plus confortable au quotidien
+Une **scie sur batterie sérieuse** peut avoir beaucoup de sens si tu travailles souvent hors poste fixe ou si tu veux limiter la friction du câble. Mais il faut intégrer le coût batterie/chargeur dans le vrai prix.
+
+### Tu veux surtout de la propreté sur panneau
+Le meilleur achat n’est pas toujours une “meilleure scie”. C’est parfois une scie correcte **avec un vrai système de guidage**. C’est ça qui change la qualité réelle des résultats.
+
+<p class="affiliate-note">Future intégration : ici, chaque profil pourra accueillir 1 à 2 références précises avec lien affilié, prix indicatif, et alternative budget.</p>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

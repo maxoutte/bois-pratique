@@ -68,6 +68,20 @@ Good routers tend to reveal themselves through ordinary details:
 
 Those things matter more than aggressive sales language about capability.
 
+
+## Quick recommendation by buyer profile
+
+### You want the least intimidating entry point
+A **good trim router** is often the most approachable way to begin if your early work is mostly on edges and smaller parts.
+
+### You want one router that can grow with the shop
+A **mid-range plunge router** is usually the best long-term compromise for wider capability without jumping straight into overkill.
+
+### You want to avoid the classic bad purchase
+Do not buy based on the size of the accessory kit. Buy based on base stability, depth adjustment and bit compatibility.
+
+<p class="affiliate-note">Future integration: this section can later support entry / versatile / premium-sensible recommendations.</p>
+
 ## My direct take
 
 If you want one serious router, a stable plunge router is often the best long-term choice. If most of your work will be on edges and smaller parts, a good trim router may be the better everyday tool.
