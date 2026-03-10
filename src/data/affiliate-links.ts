@@ -16,8 +16,8 @@ export const affiliateProductsFr: Record<string, AffiliateProduct> = {
     title: 'Makita HS7601',
     merchant: 'amazon-fr',
     market: 'fr',
-    search: 'Makita HS7601 scie circulaire',
-    note: 'Remplacer par un lien ASIN direct quand confirmé.',
+    asin: 'B012CKRAYY',
+    note: 'Lien Amazon.fr exact confirmé.',
   },
   'bosch-gks-190': {
     slug: 'bosch-gks-190',
