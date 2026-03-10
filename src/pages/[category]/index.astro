@@ -12,6 +12,7 @@ const { category } = Astro.params;
 if (!category) throw new Error('Missing category');
 const meta = categoryMeta.fr[category as keyof typeof categoryMeta.fr];
 const articles = await getArticlesByCategory('fr', category);
+const focusText = category === 'outils' ? 'Cette rubrique mélange désormais comparatifs de machines, accessoires stratégiques et pages transactionnelles : c’est devenu l’un des vrais hubs business du site.' : category === 'guides-achat' ? 'Ici, la promesse ne consiste pas seulement à recommander : elle aide aussi à dépenser dans le bon ordre.' : null;
 ---
 <BaseLayout lang="fr" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.png`}>
   <section class="container page-intro">
@@ -19,6 +20,7 @@ const articles = await getArticlesByCategory('fr', category);
     <h1>{meta.title}</h1>
     <p class="lead">{meta.description}</p>
     <p>Des contenus pensés pour aider à mieux travailler, pas juste à remplir une catégorie. Ici, on trie ce qui sert vraiment de ce qui encombre.</p>
+    {focusText && <p class="focus-note">{focusText}</p>}
   </section>
   <section class="container section">
     <div class="grid-2">

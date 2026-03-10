@@ -12,6 +12,7 @@ const { category } = Astro.params;
 if (!category) throw new Error('Missing category');
 const meta = categoryMeta.en[category as keyof typeof categoryMeta.en];
 const articles = await getArticlesByCategory('en', category);
+const focusText = category === 'tools' ? 'This section now mixes core tool reviews, accessory pages and workshop buying decisions. It is becoming one of the strongest commercial hubs on the site.' : category === 'buying-guides' ? 'These guides help structure spending, not just generate clicks. The useful promise here is prioritization.' : null;
 ---
 <BaseLayout lang="en" title={`${meta.title} — ${site.name}`} description={meta.description} image={`/images/categories/${category}.png`}>
   <section class="container page-intro">
@@ -19,6 +20,7 @@ const articles = await getArticlesByCategory('en', category);
     <h1>{meta.title}</h1>
     <p class="lead">{meta.description}</p>
     <p>These pages are meant to improve actual shop decisions, not just fill a content silo. The focus stays on what earns its place in real use.</p>
+    {focusText && <p class="focus-note">{focusText}</p>}
   </section>
   <section class="container section">
     <div class="grid-2">
