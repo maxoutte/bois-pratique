@@ -24,8 +24,8 @@ export const affiliateProductsFr: Record<string, AffiliateProduct> = {
     title: 'Bosch Professional GKS 190',
     merchant: 'amazon-fr',
     market: 'fr',
-    search: 'Bosch Professional GKS 190',
-    note: 'Remplacer par un lien ASIN direct quand confirmé.',
+    asin: 'B002L4596I',
+    note: 'Lien Amazon.fr exact confirmé.',
   },
   'makita-dhs680': {
     slug: 'makita-dhs680',
