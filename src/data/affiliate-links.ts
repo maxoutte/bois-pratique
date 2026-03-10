@@ -85,3 +85,6 @@ export function getAffiliateUrlFr(product: AffiliateProduct) {
   const query = encodeURIComponent(product.search ?? product.title);
   return `https://www.amazon.fr/s?k=${query}&tag=${amazonFrTag}`;
 }
+
+
+// TODO_ASIN: remplacer progressivement les liens de recherche par des ASIN exacts sur les pages FR les plus rentables.

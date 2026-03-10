@@ -29,6 +29,9 @@ C’est largement plus intelligent qu’un coffret XXL mal exploité.
 <div class="affiliate-card">
   <span class="affiliate-badge">Base utile</span>
   <h3>Fraise droite de bonne qualité</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=fraises+defonceuse+bois&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des fraises de défonceuse sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>La première fraise à ne pas rater, parce qu’elle conditionne beaucoup d’usinages de base.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>extrêmement utile</li><li>bonne base pour apprendre</li><li>mieux vaut en acheter une bonne qu’un lot moyen</li></ul></div>

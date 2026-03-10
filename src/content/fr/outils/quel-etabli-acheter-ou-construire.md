@@ -27,6 +27,9 @@ Très logique si tu veux un établi simple, dimensionné à ton espace, et profi
 <div class="affiliate-card">
   <span class="affiliate-badge">Lecture utile</span>
   <h3>Le bon établi est celui qui sert, pas celui qui impressionne</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=etabli+atelier+bois&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des établis sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>Un établi modeste mais stable est souvent plus intelligent qu’un meuble imposant mal dimensionné pour le lieu et les usages.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>travail plus confortable</li><li>meilleure logique d’atelier</li><li>vrai impact sur presque tous les projets</li></ul></div>

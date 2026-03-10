@@ -22,6 +22,9 @@ Au départ, le plus intelligent n’est pas d’avoir beaucoup de serre-joints. 
 <div class="affiliate-card">
   <span class="affiliate-badge">Base logique</span>
   <h3>Serre-joints à pompe de taille moyenne</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=serre-joints+atelier+bois&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des serre-joints atelier sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>Le meilleur point de départ pour les montages simples, le maintien courant et beaucoup de projets atelier.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>polyvalents</li><li>pas trop chers à l’unité</li><li>très utiles dans presque tous les premiers projets</li></ul></div>

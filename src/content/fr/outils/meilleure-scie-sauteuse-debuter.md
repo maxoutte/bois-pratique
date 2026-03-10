@@ -28,6 +28,9 @@ Si ton vrai besoin est la coupe droite propre sur panneau, la priorité reste so
 <div class="affiliate-card">
   <span class="affiliate-badge">Achat raisonnable</span>
   <h3>Scie sauteuse filaire simple et stable</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=scie+sauteuse+filaire+bois&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des scies sauteuses sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>Le bon choix si tu veux une machine utile sans payer une sophistication qui servira peu au départ.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>polyvalence réelle sur petites découpes</li><li>mise en route rapide</li><li>cohérente en complément d’une scie circulaire</li></ul></div>

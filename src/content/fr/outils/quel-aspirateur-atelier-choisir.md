@@ -29,6 +29,9 @@ Le bon achat dépend surtout des machines branchées et du niveau de confort que
 <div class="affiliate-card">
   <span class="affiliate-badge">Base rationnelle</span>
   <h3>Aspirateur d’atelier compact type Kärcher / Bosch / Nilfisk</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=aspirateur+atelier+bois&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des aspirateurs d’atelier sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>Le bon premier achat si tu veux surtout brancher ponceuse, scie et nettoyage courant sans monter une usine à gaz.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>polyvalent</li><li>vrai gain de confort immédiat</li><li>plus utile qu’on ne l’imagine en atelier de départ</li></ul></div>

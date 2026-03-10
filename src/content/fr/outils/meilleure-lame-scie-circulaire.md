@@ -22,6 +22,9 @@ On ne choisit pas une lame sérieuse juste au nombre de dents. Il faut regarder 
 <div class="affiliate-card">
   <span class="affiliate-badge">Coupe polyvalente</span>
   <h3>Lame carbure polyvalente 165 mm</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=lame+scie+circulaire+165mm+carbure&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir des lames 165 mm sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
   <p>Le meilleur premier achat si tu veux améliorer la propreté générale sans te perdre dans un catalogue trop technique.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>vrai gain immédiat</li><li>bonne polyvalence</li><li>plus cohérente pour un atelier débutant</li></ul></div>
