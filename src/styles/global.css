@@ -1,14 +1,14 @@
 :root {
-  --bg: #e7dccf;
-  --surface: #f6ede3;
-  --surface-2: #efe0cf;
-  --text: #2b1d15;
-  --muted: #6d5a4d;
-  --line: #ccb59e;
-  --accent: #8a5a2b;
-  --accent-dark: #6d421c;
-  --accent-2: #6b7a46;
-  --accent-3: #a55d3a;
+  --bg: #ddd1c2;
+  --surface: #f7efe7;
+  --surface-2: #e8d4bf;
+  --text: #24170f;
+  --muted: #695648;
+  --line: #bea184;
+  --accent: #7b4a22;
+  --accent-dark: #5b3418;
+  --accent-2: #546b3b;
+  --accent-3: #b46a3c;
   --max: 1120px;
 }
 
@@ -25,9 +25,9 @@ body {
 a { color: inherit; text-decoration: none; }
 a:hover { color: var(--accent-dark); }
 img { max-width: 100%; display: block; }
-main { min-height: 70vh; }
+main { min-height: 70vh; background: linear-gradient(180deg, rgba(255,248,241,0.25) 0%, rgba(221,209,194,0.15) 100%); }
 .container { width: min(var(--max), calc(100% - 2rem)); margin: 0 auto; }
-.site-header, .site-footer { background: linear-gradient(180deg, #e8d6c2 0%, #eedecc 100%); border-bottom: 1px solid var(--line); }
+.site-header, .site-footer { background: linear-gradient(180deg, #d9c0a6 0%, #ead8c4 100%); border-bottom: 1px solid var(--line); }
 .site-footer { border-top: 1px solid var(--line); border-bottom: none; margin-top: 4rem; }
 .header-inner, .footer-grid { display: flex; gap: 1.5rem; align-items: center; justify-content: space-between; padding: 1rem 0; }
 .footer-grid { align-items: start; }
@@ -39,7 +39,7 @@ nav ul { display: flex; gap: 1rem; list-style: none; padding: 0; margin: 0; flex
 .hero { padding: 4rem 0 2rem; display: grid; gap: 2rem; grid-template-columns: 1.4fr 1fr; }
 .hero-panel, .panel, .card { background: var(--surface); border: 1px solid var(--line); border-radius: 1.25rem; box-shadow: 0 10px 30px rgba(85, 55, 31, 0.08); }
 .hero-panel { padding: 2rem; }
-.hero-copy { display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, #f5e8da 0%, #ead7c1 100%); }
+.hero-copy { display: flex; flex-direction: column; justify-content: center; background: linear-gradient(135deg, #f5e3cf 0%, #dec2a2 100%); }
 .hero-visual { padding: 0; overflow: hidden; min-height: 100%; }
 .hero-visual img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .hero h1 { font-size: clamp(2.4rem, 4vw, 4.6rem); line-height: 1; margin: 0 0 1rem; }
@@ -93,7 +93,7 @@ nav ul { display: flex; gap: 1rem; list-style: none; padding: 0; margin: 0; flex
 .button.primary:hover { background: #754922; color: #fff8f1; }
 .button.secondary:hover { background: #e5d4c0; }
 
-.section:nth-of-type(odd) .card { background: #f4ebdf; }
+.section:nth-of-type(odd) .card { background: #f1e4d7; }
 .hero h1 { color: #3a2418; }
 .section h2 { color: #4a2d1e; }
 .article-summary { border-left: 4px solid var(--accent-2); }
@@ -107,3 +107,17 @@ nav ul { display: flex; gap: 1rem; list-style: none; padding: 0; margin: 0; flex
 .pros-cons h4 { margin: 0 0 .45rem; font-size: .95rem; }
 .pros-cons ul { margin: 0; padding-left: 1rem; }
 @media (max-width: 900px) { .pros-cons { grid-template-columns: 1fr; } }
+
+
+.hero-panel { position: relative; overflow: hidden; }
+.hero-panel::after { content: ""; position: absolute; inset: auto -60px -80px auto; width: 240px; height: 240px; border-radius: 50%; background: radial-gradient(circle, rgba(180,106,60,.22) 0%, rgba(180,106,60,0) 70%); pointer-events: none; }
+.section h2::after { content: ""; display: block; width: 70px; height: 4px; margin-top: .45rem; border-radius: 999px; background: linear-gradient(90deg, var(--accent-3), var(--accent-2)); }
+.brand strong, h1, h2, h3 { letter-spacing: -0.02em; }
+.card { transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
+.card:hover { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(62,34,16,.12); border-color: #b48b68; }
+.article-summary { background: linear-gradient(135deg, #efdfcf 0%, #e6d8c1 100%); }
+.article-hero { box-shadow: 0 16px 40px rgba(54,32,18,.12); }
+nav a:hover, .lang-switch:hover { color: var(--accent-3); }
+.button.primary { box-shadow: 0 10px 24px rgba(91,52,24,.18); }
+.button.secondary { box-shadow: inset 0 1px 0 rgba(255,255,255,.35); }
+.affiliate-card { box-shadow: 0 10px 24px rgba(62,34,16,.08); }
