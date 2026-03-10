@@ -96,6 +96,83 @@ Et si tu dois hiérarchiser les priorités, garde ça en tête :
 
 C’est presque toujours là que se joue le vrai niveau de résultat.
 
+
+## Trois profils de machines à regarder
+
+L’idée n’est pas de faire semblant qu’il existe une scie parfaite. Il existe surtout des profils d’achat différents.
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Sélection débutant</span>
+  <h3>Scie circulaire filaire polyvalente 165 mm</h3>
+  <p>Le meilleur point d’entrée pour quelqu’un qui veut surtout couper du panneau, apprendre à guider correctement et garder un budget raisonnable.</p>
+  <div class="pros-cons">
+    <div>
+      <h4>Points forts</h4>
+      <ul>
+        <li>bon rapport stabilité / prix</li>
+        <li>pas de batterie à gérer</li>
+        <li>souvent plus cohérente pour travailler longtemps</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Limites</h4>
+      <ul>
+        <li>moins mobile</li>
+        <li>câble à gérer dans un petit espace</li>
+        <li>finitions d’entrée de gamme variables</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Sélection confort</span>
+  <h3>Scie circulaire sur batterie bien guidable</h3>
+  <p>Bonne option si tu travailles souvent hors établi fixe ou si la liberté de mouvement compte autant que la coupe elle-même.</p>
+  <div class="pros-cons">
+    <div>
+      <h4>Points forts</h4>
+      <ul>
+        <li>plus agréable en mobilité</li>
+        <li>mise en œuvre rapide</li>
+        <li>bon ressenti pour petits projets et coupes répétées</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Limites</h4>
+      <ul>
+        <li>coût total plus élevé avec batteries</li>
+        <li>moins rationnelle si tu n’as pas déjà une plateforme</li>
+        <li>l’autonomie devient un vrai sujet sur longues séances</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Sélection atelier</span>
+  <h3>Scie compatible rail / guidage sérieux</h3>
+  <p>Le choix le plus intelligent si ton objectif est la propreté de coupe sur panneaux, caissons et agencement atelier.</p>
+  <div class="pros-cons">
+    <div>
+      <h4>Points forts</h4>
+      <ul>
+        <li>coupes plus propres et plus répétables</li>
+        <li>réduit beaucoup la lutte au guidage</li>
+        <li>très bon achat si tu vas faire du panneau régulièrement</li>
+      </ul>
+    </div>
+    <div>
+      <h4>Limites</h4>
+      <ul>
+        <li>budget global plus haut</li>
+        <li>prend plus de place</li>
+        <li>surdimensionné si tu coupes peu</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

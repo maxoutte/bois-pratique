@@ -75,6 +75,29 @@ Si tu débutes et veux une seule machine sérieuse, une **plongeante stable et l
 
 Dans les deux cas, n’oublie pas le point qui change tout : la défonceuse ne sera jamais meilleure que le couple **fraise + méthode** que tu lui donnes.
 
+
+## Trois profils d’achat crédibles
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Profil rassurant</span>
+  <h3>Affleureuse compacte pour chants et petites reprises</h3>
+  <p>Le bon choix si tu veux une machine simple à sortir, légère en main et moins intimidante pour les premiers usages.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>prise en main rapide</li><li>agréable sur petites pièces</li><li>bonne porte d’entrée</li></ul></div>
+    <div><h4>Limites</h4><ul><li>vite limitée sur usinages plus lourds</li><li>moins polyvalente</li><li>peut frustrer si les projets grandissent</li></ul></div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Profil polyvalent</span>
+  <h3>Défonceuse plongeante intermédiaire</h3>
+  <p>Le meilleur compromis si tu veux une vraie machine d’atelier sans tomber dans le monstre inutile pour débuter.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>plus large champ d’usage</li><li>meilleure base pour progresser</li><li>intéressante avec bons gabarits</li></ul></div>
+    <div><h4>Limites</h4><ul><li>plus lourde</li><li>moins rassurante au départ</li><li>nécessite de vraies fraises pour être jugée correctement</li></ul></div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)

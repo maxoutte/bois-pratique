@@ -125,6 +125,29 @@ alors tu as déjà la bonne base.
 
 Le reste viendra avec les projets. Et c’est beaucoup mieux comme ça.
 
+
+## Produits de départ vraiment logiques
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Base atelier</span>
+  <h3>Kit scie circulaire + rail simple</h3>
+  <p>Un achat plus intelligent qu’une deuxième machine de coupe si tu pars de zéro et veux surtout travailler proprement sur panneaux.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>ouvre beaucoup de projets d’un coup</li><li>très utile pour l’atelier</li><li>améliore la précision réelle</li></ul></div>
+    <div><h4>Limites</h4><ul><li>plus encombrant qu’une machine seule</li><li>demande une logique de rangement</li><li>budget un peu plus haut au départ</li></ul></div>
+  </div>
+</div>
+
+<div class="affiliate-card">
+  <span class="affiliate-badge">Achat rentable</span>
+  <h3>Ponceuse excentrique avec aspiration correcte</h3>
+  <p>Typiquement le produit qu’on repousse, puis qu’on finit par considérer comme indispensable dès que les projets deviennent un peu sérieux.</p>
+  <div class="pros-cons">
+    <div><h4>Points forts</h4><ul><li>gain de temps immédiat</li><li>finitions plus propres</li><li>moins de fatigue qu’au ponçage manuel</li></ul></div>
+    <div><h4>Limites</h4><ul><li>absolument dépendante de bons abrasifs</li><li>les modèles cheap vibrent trop</li><li>sans aspiration, l’intérêt baisse vite</li></ul></div>
+  </div>
+</div>
+
 ## À lire ensuite
 
 - [Meilleure scie circulaire pour débuter](/outils/meilleure-scie-circulaire-debutant/)
