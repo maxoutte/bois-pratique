@@ -31,6 +31,10 @@ Le but n’est pas d’acheter la machine la plus agressive. Le but, c’est d�
 <div class="affiliate-card">
   <span class="affiliate-badge">Entrée sérieuse</span>
   <h3>Bosch Professional GEX 125-1 AE</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=Bosch+GEX+125-1+AE&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir Bosch GEX 125-1 AE sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
+  <AffiliateButton product="bosch-gex-125-1-ae" />
   <p>Une option très cohérente pour débuter avec une machine connue, simple à recommander et plus crédible qu’une entrée de gamme floue.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>prise en main assez saine</li><li>référence répandue</li><li>bonne porte d’entrée pour atelier amateur sérieux</li></ul></div>
@@ -41,6 +45,10 @@ Le but n’est pas d’acheter la machine la plus agressive. Le but, c’est d�
 <div class="affiliate-card">
   <span class="affiliate-badge">Alternative durable</span>
   <h3>Makita BO5041</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=Makita+BO5041&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir Makita BO5041 sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
+  <AffiliateButton product="makita-bo5041" />
   <p>Un choix souvent intéressant si tu veux une machine de marque connue, avec une vraie logique d’atelier et un ressenti plus installé.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>modèle éprouvé</li><li>bonne crédibilité usage régulier</li><li>pertinente si tu veux monter légèrement en gamme</li></ul></div>

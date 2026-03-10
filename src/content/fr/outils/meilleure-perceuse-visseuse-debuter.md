@@ -30,6 +30,10 @@ Sur une perceuse-visseuse de départ, je regarde surtout :
 <div class="affiliate-card">
   <span class="affiliate-badge">Base fiable</span>
   <h3>Makita DDF482</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=Makita+DDF482&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir Makita DDF482 sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
+  <AffiliateButton product="makita-ddf482" />
   <p>Une référence souvent logique pour quelqu’un qui veut une machine connue, robuste et simple à défendre dans un atelier de départ.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>très répandue</li><li>bonne image de fiabilité</li><li>cohérente dans un vrai usage de montage</li></ul></div>
@@ -40,6 +44,10 @@ Sur une perceuse-visseuse de départ, je regarde surtout :
 <div class="affiliate-card">
   <span class="affiliate-badge">Alternative pro accessible</span>
   <h3>Bosch Professional GSR 18V-55</h3>
+<div class="affiliate-link-row"><a class="affiliate-link-placeholder" href="https://www.amazon.fr/s?k=Bosch+GSR+18V-55&tag=boispratique-21" rel="nofollow sponsored" target="_blank">Voir Bosch GSR 18V-55 sur Amazon.fr</a></div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
+
+  <AffiliateButton product="bosch-gsr-18v-55" />
   <p>Un très bon profil si tu veux une machine plus “bleue pro”, avec une sensation de montée en gamme sans partir dans l’excès.</p>
   <div class="pros-cons">
     <div><h4>Points forts</h4><ul><li>bonne réputation</li><li>agréable pour montage et perçage courant</li><li>intéressante si tu vas construire un petit parc Bosch Pro</li></ul></div>

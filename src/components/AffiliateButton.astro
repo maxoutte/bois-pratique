@@ -1,0 +1,17 @@
+---
+import { affiliateProductsFr, getAffiliateUrlFr } from '../data/affiliate-links';
+interface Props {
+  product: keyof typeof affiliateProductsFr;
+  label?: string;
+}
+const { product, label } = Astro.props;
+const item = affiliateProductsFr[product];
+if (!item) throw new Error(`Unknown affiliate product: ${product}`);
+const href = getAffiliateUrlFr(item);
+---
+<div class="affiliate-link-row">
+  <a class="affiliate-link-placeholder" href={href} rel="nofollow sponsored" target="_blank">
+    {label ?? `Voir ${item.title} sur Amazon.fr`}
+  </a>
+</div>
+<p class="affiliate-note">Lien affilié Amazon.fr possible. Si tu achètes via ce lien, Bois Pratique peut toucher une commission, sans surcoût pour toi.</p>
