@@ -100,6 +100,8 @@ Dans les deux cas, n’oublie pas le point qui change tout : la défonceuse ne s
   </div>
 </div>
 
+- [Quelles fraises de défonceuse acheter pour débuter](/outils/quelles-fraises-defonceuse-debuter/)
+
 ## À lire ensuite
 
 - [Les outils indispensables pour débuter le travail du bois](/guides-achat/outils-indispensables-debuter/)
