@@ -11,6 +11,7 @@ interface Props {
 }
 
 const { title, description, lang, categoryTitle, pubDate, hero } = Astro.props;
+const categoryHref = lang === 'fr' ? `/${categoryTitle.toLowerCase()}/` : undefined;
 ---
 <BaseLayout lang={lang} title={title} description={description} image={hero}>
   <section class="container article-shell">
@@ -18,6 +19,10 @@ const { title, description, lang, categoryTitle, pubDate, hero } = Astro.props;
     <h1>{title}</h1>
     <p class="lead">{description}</p>
     <p class="meta">{pubDate.toLocaleDateString(lang === 'fr' ? 'fr-FR' : 'en-US')}</p>
+    <div class="article-summary panel">
+      <strong>{lang === 'fr' ? 'En bref' : 'In short'}</strong>
+      <p>{description}</p>
+    </div>
     {hero && <img class="article-hero" src={hero} alt={title} />}
     <article class="prose">
       <slot />
